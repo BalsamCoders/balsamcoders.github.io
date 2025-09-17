@@ -31,13 +31,13 @@
             margin: 0;
             flex-direction: column;
             color: var(--text-light);
-            padding: 20px;
+            padding: 10px; /* reduced */
             box-sizing: border-box;
         }
         .container {
             text-align: center;
             background-color: var(--background-card);
-            padding: 30px 25px;
+            padding: 20px 15px; /* reduced */
             border-radius: var(--border-radius-card);
             box-shadow: 0 10px 30px var(--shadow-light);
             width: 95%;
@@ -46,8 +46,8 @@
         }
         h1 {
             color: var(--primary-color);
-            margin-bottom: 25px;
-            font-size: 2.5em;
+            margin: 10px 0 15px 0; /* reduced top & bottom */
+            font-size: 2em; /* slightly smaller */
             font-weight: 700;
         }
         .screen {
@@ -65,15 +65,15 @@
             width: 100%;
         }
         button {
-            padding: 14px 28px;
-            font-size: 1.1em;
+            padding: 12px 22px;
+            font-size: 1em; /* slightly smaller */
             font-weight: 600;
             background-color: var(--primary-color);
             color: var(--text-light);
             border: none;
             border-radius: var(--border-radius-button);
             cursor: pointer;
-            margin: 8px 0;
+            margin: 6px 0; /* reduced gap */
             width: 90%;
             max-width: 350px;
             transition: background-color 0.3s ease, transform 0.2s ease;
@@ -96,42 +96,42 @@
             width: 100%;
         }
         #question {
-            font-size: 1.8em;
-            margin-bottom: 25px;
-            color: var(--text-light); /* Changed to white */
+            font-size: 1.5em; /* reduced */
+            margin-bottom: 15px; /* reduced */
+            color: var(--text-light);
             font-weight: 600;
         }
         #result {
             font-weight: 700;
-            margin-top: 20px;
-            font-size: 1.3em;
-            min-height: 25px;
+            margin-top: 12px; /* reduced */
+            font-size: 1.2em; /* reduced */
+            min-height: 20px;
         }
         #score-container {
-            margin-top: 30px;
-            font-size: 1.3em;
+            margin-top: 15px; /* reduced */
+            font-size: 1.1em; /* smaller */
             font-weight: 700;
             color: var(--primary-color);
         }
         #result.correct { color: var(--success-color); }
         #result.incorrect { color: var(--error-color); }
         p {
-            font-size: 1.1em;
-            margin-bottom: 15px;
-            line-height: 1.6;
+            font-size: 1em; /* slightly smaller */
+            margin-bottom: 12px; /* reduced */
+            line-height: 1.4;
             color: var(--text-dark);
         }
         .level-select-container {
-            margin-top: 20px;
+            margin-top: 15px; /* reduced */
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 10px;
+            gap: 8px;
         }
         .level-select-container button {
             width: auto;
             max-width: none;
-            padding: 10px 20px;
+            padding: 8px 16px;
             font-size: 0.9em;
             background-color: #5d5d5d;
         }
@@ -140,16 +140,16 @@
             box-shadow: none;
         }
         @media (max-width: 600px) {
-            h1 { font-size: 2em; }
-            #question { font-size: 1.4em; }
-            button { font-size: 1em; padding: 12px 20px; }
-            .container { padding: 25px 15px; }
+            h1 { font-size: 1.6em; }
+            #question { font-size: 1.2em; }
+            button { font-size: 0.95em; padding: 10px 18px; }
+            .container { padding: 15px 12px; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Capital city challenge </h1>
+        <h1>Capital city challenge</h1>
         <div id="start-screen" class="screen active">
             <p>Test your knowledge of capitals! Choose a level to begin.</p>
             <div class="level-select-container">
@@ -256,54 +256,52 @@
             currentCountry = getRandomCountry();
             questionElement.textContent = `What is the capital of ${currentCountry}?`;
             resultElement.textContent = "";
-            resultElement.className = '';
+            resultElement.className = "";
             generateOptions();
         }
 
-        function checkAnswer(event) {
-            const selectedButton = event.target;
-            const userAnswer = selectedButton.textContent;
+        function checkAnswer(selected, button) {
             const correctAnswer = capitals[currentLevel][currentCountry];
-            optionButtons.forEach(button => button.disabled = true);
-
-            if (userAnswer === correctAnswer) {
-                resultElement.textContent = "Correct! ✅";
-                resultElement.classList.add('correct');
-                selectedButton.style.backgroundColor = 'var(--success-color)';
+            if (selected === correctAnswer) {
+                resultElement.textContent = "Correct!";
+                resultElement.className = "correct";
+                button.style.backgroundColor = 'var(--success-color)';
                 score++;
+                scoreElement.textContent = score;
             } else {
-                resultElement.textContent = `Incorrect. The correct answer is ${correctAnswer}. ❌`;
-                resultElement.classList.add('incorrect');
-                selectedButton.style.backgroundColor = 'var(--error-color)';
-                optionButtons.forEach(button => {
-                    if (button.textContent === correctAnswer) {
-                        button.style.backgroundColor = 'var(--success-color)';
+                resultElement.textContent = `Incorrect! The capital is ${correctAnswer}.`;
+                resultElement.className = "incorrect";
+                button.style.backgroundColor = 'var(--error-color)';
+                optionButtons.forEach(btn => {
+                    if (btn.textContent === correctAnswer) {
+                        btn.style.backgroundColor = 'var(--success-color)';
                     }
                 });
             }
-
-            scoreElement.textContent = score;
-            setTimeout(newQuestion, 2000);
+            optionButtons.forEach(btn => btn.disabled = true);
+            setTimeout(newQuestion, 1500);
         }
 
-        // Event listeners for the level selection buttons on the start screen
+        optionButtons.forEach(button => {
+            button.addEventListener("click", () => {
+                checkAnswer(button.textContent, button);
+            });
+        });
+
         indiaBtn.addEventListener("click", () => {
-            indiaBtn.classList.add('active-level');
-            worldBtn.classList.remove('active-level');
+            indiaBtn.classList.add("active-level");
+            worldBtn.classList.remove("active-level");
             startGame("indiaStates");
         });
 
         worldBtn.addEventListener("click", () => {
-            worldBtn.classList.add('active-level');
-            indiaBtn.classList.remove('active-level');
+            worldBtn.classList.add("active-level");
+            indiaBtn.classList.remove("active-level");
             startGame("worldCountries");
         });
 
-        optionsContainer.addEventListener("click", (event) => {
-            if (event.target.classList.contains('option-btn')) {
-                checkAnswer(event);
-            }
-        });
+        // Start with India States
+        startGame("indiaStates");
     </script>
 </body>
 </html>
