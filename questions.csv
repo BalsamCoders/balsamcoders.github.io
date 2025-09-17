@@ -1,0 +1,994 @@
+difficulty;question;options;answer
+Beginner;What is the capital of France?;Paris,London,Berlin,Rome;Paris
+Intermediate;What company is the parent of Instagram?;Meta,Google,Twitter,Snap Inc.;Meta
+Advanced;What is the boiling point of water in Kelvin?;373.15 K,273.15 K,100 K,0 K;373.15 K
+Beginner;Which animal barks?;Dog,Cat,Cow,Duck;Dog
+Beginner;How many days are in a week?;7,8,6,5;7
+Beginner;What color is the sun?;Yellow,Blue,Green,Red;Yellow
+Beginner;Which fruit is yellow and long?;Banana,Apple,Grape,Orange;Banana
+Beginner;What is 2 + 2?;4,3,5,6;4
+Beginner;What is the opposite of 'hot'?;Cold,Wet,Dry,Soft;Cold
+Beginner;Which planet is closest to the Sun?;Mercury,Venus,Earth,Mars;Mercury
+Beginner;What is the main ingredient of guacamole?;Avocado,Tomato,Onion,Lime;Avocado
+Beginner;Which bird is known for its ability to mimic human speech?;Parrot,Eagle,Penguin,Ostrich;Parrot
+Beginner;Which animal is famous for its black and white stripes?;Zebra,Giraffe,Lion,Tiger;Zebra
+Beginner;What is a baby dog called?;Puppy,Kitten,Cub,Calf;Puppy
+Beginner;Which bird is known for its ability to mimic human speech?;Parrot,Eagle,Penguin,Ostrich;Parrot
+Beginner;What is the largest ocean on Earth?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean;Pacific Ocean
+Beginner;What animal is called the king of the jungle?;Lion,Tiger,Bear,Wolf;Lion
+Beginner;Which animal has a very long neck?;Giraffe,Elephant,Hippo,Zebra;Giraffe
+Beginner;What do you call a baby cat?;Kitten,Puppy,Calf,Cub;Kitten
+Beginner;Which animal lives in the ocean and has eight arms?;Octopus,Shark,Dolphin,Crab;Octopus
+Beginner;What do bears eat that is made by bees?;Honey,Fish,Berries,Nuts;Honey
+Beginner;What is a baby sheep called?;Lamb,Goat,Calf,Piglet;Lamb
+Beginner;Which bird is a symbol of peace?;Dove,Crow,Eagle,Sparrow;Dove
+Beginner;What is the largest marine animal?;Blue Whale,Great White Shark,Dolphin,Jellyfish;Blue Whale
+Beginner;What sound does a cow make?;Moo,Woof,Meow,Quack;Moo
+Beginner;What is a group of lions called?;Pride,Herd,Flock,School;Pride
+Beginner;What kind of animal is a dolphin?;Fish,Mammal,Bird,Reptile;Mammal
+Beginner;Which bird can't fly but lives in Antarctica?;Penguin,Ostrich,Emu,Chicken;Penguin
+Beginner;What animal has a pouch to carry its young?;Kangaroo,Bear,Lion,Monkey;Kangaroo
+Beginner;What part of a shark is made of cartilage?;Skeleton,Fin,Teeth,Gills;Skeleton
+Beginner;What is a baby pig called?;Piglet,Foal,Kid,Cub;Piglet
+Beginner;Which bird is known for its colorful tail feathers and courtship dance?;Peacock,Eagle,Owl,Duck;Peacock
+Beginner;What do fish use to breathe underwater?;Gills,Lungs,Nostrils,Fins;Gills
+Beginner;Which animal lives in the desert and has a hump on its back?;Camel,Bear,Elephant,Tiger;Camel
+Beginner;What is a baby kangaroo called?;Joey,Cub,Kitten,Calf;Joey
+Beginner;What is the name of the largest shark species?;Whale Shark,Great White Shark,Hammerhead Shark,Tiger Shark;Whale Shark
+Beginner;Which animal has a large trunk and big ears?;Elephant,Hippo,Rhino,Giraffe;Elephant
+Beginner;What do butterflies eat?;Nectar,Leaves,Fish,Insects;Nectar
+Beginner;Which bird is famous for hooting at night?;Owl,Eagle,Sparrow,Pigeon;Owl
+Beginner;What is the main habitat of a starfish?;Ocean,Forest,Desert,Mountains;Ocean
+Beginner;What animal says 'quack'?;Duck,Goose,Chicken,Turkey;Duck
+Beginner;What is a baby horse called?;Foal,Calf,Cub,Kid;Foal
+Beginner;Which bird is a popular pet and is known for its small size?;Canary,Chicken,Emu,Ostrich;Canary
+Beginner;What are tiny shrimp-like creatures in the ocean called?;Krill,Plankton,Jellyfish,Seaweed;Krill
+Beginner;What is a group of fish called?;School,Herd,Flock,Colony;School
+Beginner;Which animal is a marsupial and native to Australia?;Koala,Panda,Monkey,Wolf;Koala
+Beginner;What do chickens lay?;Eggs,Milk,Honey,Wool;Eggs
+Beginner;What is the name of a sea creature that has a hard shell?;Crab,Jellyfish,Dolphin,Shark;Crab
+Beginner;Which animal is a large, black and white aquatic mammal?;Killer Whale,Dolphin,Seal,Walrus;Killer Whale
+Beginner;What is a baby goat called?;Kid,Lamb,Calf,Foal;Kid
+Beginner;What kind of bird is known for its long, pink legs and neck?;Flamingo,Swan,Pelican,Stork;Flamingo
+Beginner;What do you call a male duck?;Drake,Hen,Rooster,Goose;Drake
+Beginner;What is the name of the large animal with a horn on its nose?;Rhinoceros,Hippo,Elephant,Buffalo;Rhinoceros
+Beginner;Which animal hibernates in the winter?;Bear,Squirrel,Rabbit,Deer;Bear
+Beginner;What is the opposite of high tide?;Low tide,Current,Wave,Storm;Low tide
+Beginner;What is a baby chicken called?;Chick,Fowl,Hen,Rooster;Chick
+Beginner;What do bees make that is sweet?;Honey,Milk,Sugar,Wax;Honey
+Beginner;What is the sound a frog makes?;Croak,Ribbit,Chirp,Hoot;Croak
+Beginner;Which bird is a predator and has sharp talons?;Hawk,Duck,Pigeon,Sparrow;Hawk
+Beginner;What is the name of the sea creature that changes color to blend in?;Chameleon,Octopus,Crab,Jellyfish;Octopus
+Beginner;What is a group of wolves called?;Pack,Herd,Flock,School;Pack
+Beginner;What is a baby deer called?;Fawn,Cub,Calf,Joey;Fawn
+Beginner;Which ocean animal is a slow-moving reptile with a shell?;Sea Turtle,Shark,Dolphin,Whale;Sea Turtle
+Beginner;Which animal is known for its ability to change color?;Chameleon,Zebra,Giraffe,Lion;Chameleon
+Beginner;What is the national bird of the United States?;Bald Eagle,Robin,Cardinal,Blue Jay;Bald Eagle
+Beginner;What is the name of the small, fast-flying bird that hovers?;Hummingbird,Sparrow,Eagle,Pigeon;Hummingbird
+Beginner;What is the name of a large, flightless bird native to Australia?;Emu,Ostrich,Penguin,Kiwi;Emu
+Beginner;Which marine animal has a large, fleshy body and no shell?;Jellyfish,Crab,Lobster,Clam;Jellyfish
+Beginner;What is a male chicken called?;Rooster,Hen,Chick,Drake;Rooster
+Beginner;What is a group of birds called?;Flock,Herd,School,Pack;Flock
+Beginner;What kind of animal is a grizzly bear?;Carnivore,Omnivore,Herbivore,Insectivore;Omnivore
+Beginner;What is the name of the ocean animal that squirts ink?;Squid,Whale,Dolphin,Starfish;Squid
+Beginner;Which animal has a black and white face and eats bamboo?;Panda,Bear,Koala,Gorilla;Panda
+Beginner;What is the name of a fish with a venomous spike on its tail?;Stingray,Shark,Tuna,Salmon;Stingray
+Beginner;What is a group of cattle called?;Herd,Flock,School,Pack;Herd
+Beginner;What is a baby bear called?;Cub,Kitten,Puppy,Calf;Cub
+Beginner;What do marine turtles eat?;Jellyfish,Fish,Seaweed,Krill;Jellyfish
+Beginner;Which bird is known for its long legs and wading in water?;Stork,Sparrow,Robin,Eagle;Stork
+Beginner;What is the name of the small, spiny fish that puffs up when threatened?;Pufferfish,Goldfish,Clownfish,Shark;Pufferfish
+Beginner;What animal is known for its long, powerful tail?;Kangaroo,Bear,Lion,Zebra;Kangaroo
+Beginner;What is the largest land animal?;Elephant,Giraffe,Lion,Bear;Elephant
+Beginner;What is a group of penguins called?;Rookery,School,Flock,Herd;Rookery
+Beginner;Which animal has a hard shell and is a slow walker?;Tortoise,Cheetah,Rabbit,Fox;Tortoise
+Beginner;What is a baby goose called?;Gosling,Duckling,Chick,Fawn;Gosling
+Beginner;What kind of animal is a salmon?;Fish,Bird,Mammal,Reptile;Fish
+Beginner;Which bird is a popular pet and can sing?;Canary,Pigeon,Crow,Ostrich;Canary
+Beginner;What are baby goats and sheep together called?;Kids and lambs,Calves and foals,Cubs and puppies,Kittens and chicks;Kids and lambs
+Beginner;What is the sound a snake makes?;Hiss,Roar,Moo,Woof;Hiss
+Beginner;What is the name of the ocean animal with a spiky body?;Sea Urchin,Starfish,Crab,Jellyfish;Sea Urchin
+Beginner;Which animal is a large ape known for its strength?;Gorilla,Chimpanzee,Monkey,Orangutan;Gorilla
+Beginner;What kind of habitat does a polar bear live in?;Arctic,Desert,Forest,Ocean;Arctic
+Beginner;What is a group of crows called?;Murder,Flock,Herd,School;Murder
+Beginner;What is the name of the sea creature that looks like a star?;Starfish,Jellyfish,Crab,Whale;Starfish
+Beginner;What animal is a rodent known for building dams?;Beaver,Squirrel,Mouse,Rabbit;Beaver
+Beginner;Which ocean animal is known for its intelligence?;Dolphin,Shark,Jellyfish,Whale;Dolphin
+Beginner;What is a baby seal called?;Pup,Cub,Calf,Kit;Pup
+Beginner;Which bird is known for its beautiful fan-like tail?;Peacock,Swan,Ostrich,Eagle;Peacock
+Beginner;What is the name of the large reptile with a long snout?;Crocodile,Lizard,Snake,Frog;Crocodile
+Beginner;Which animal has a long tail and eats bananas?;Monkey,Bear,Cat,Dog;Monkey
+Beginner;What is a group of owls called?;Parliament,Flock,Herd,School;Parliament
+Beginner;What is the name of the sea animal that lives in a shell and has a soft body?;Snail,Crab,Starfish,Jellyfish;Snail
+Beginner;What is a baby owl called?;Owlet,Fawn,Chick,Gosling;Owlet
+Beginner;Which animal is a large cat with a striped coat?;Tiger,Lion,Leopard,Cheetah;Tiger
+Beginner;What is the name of a type of jellyfish that can be dangerous to humans?;Box Jellyfish,Moon Jellyfish,Sea Nettle,Lion's Mane Jellyfish;Box Jellyfish
+Beginner;What is a group of kangaroos called?;Mob,Herd,Flock,School;Mob
+Beginner;Which bird is known for its ability to hover in place?;Hummingbird,Sparrow,Crow,Pigeon;Hummingbird
+Beginner;What is a baby rabbit called?;Kit,Pup,Cub,Foal;Kit
+Beginner;What is the name of the ocean animal that lives on the ocean floor and has a hard shell?;Clam,Jellyfish,Starfish,Squid;Clam
+Beginner;Which bird is known for its large size and black and white feathers?;Magpie,Pigeon,Penguin,Sparrow;Magpie
+Beginner;What do you call a male bee?;Drone,Queen,Worker,King;Drone
+Beginner;What is a group of fish called?;School,Herd,Flock,Pack;School
+Beginner;What is the name of the fish with a flat body that lives on the ocean floor?;Flounder,Tuna,Salmon,Shark;Flounder
+Beginner;Which animal is a large marine mammal with tusks?;Walrus,Seal,Dolphin,Whale;Walrus
+Intermediate;What is the largest organ in the human body?;Skin,Heart,Liver,Brain;Skin
+Intermediate;Which country is the Great Wall in?;China,Japan,India,Egypt;China
+Intermediate;Who painted the Mona Lisa?;Leonardo da Vinci,Pablo Picasso,Vincent van Gogh,Claude Monet;Leonardo da Vinci
+Intermediate;What is the chemical symbol for water?;H2O,CO2,O2,NaCl;H2O
+Intermediate;How many continents are there?;7,6,5,8;7
+Intermediate;What is the currency of Japan?;Yen,Dollar,Euro,Pound;Yen
+Intermediate;Which is the longest river in the world?;Nile,Amazon,Mississippi,Yangtze;Nile
+Intermediate;Who wrote 'Romeo and Juliet'?;William Shakespeare,Charles Dickens,Jane Austen,Mark Twain;William Shakespeare
+Intermediate;What is the process of a plant making its food called?;Photosynthesis,Respiration,Germination,Pollination;Photosynthesis
+Intermediate;In which year did the Titanic sink?;1912,1905,1923,1931;1912
+Intermediate;What is the capital of Canada?;Ottawa,Toronto,Vancouver,Montreal;Ottawa
+Intermediate;Which country is the world's largest by land area?;Russia,Canada,China,United States;Russia
+Intermediate;Which continent is the most populous?;Asia,Africa,Europe,North America;Asia
+Intermediate;What is the longest river in South America?;Amazon River,Nile River,Mississippi River,Yangtze River;Amazon River
+Intermediate;In which country would you find the ancient city of Machu Picchu?;Peru,Mexico,Brazil,Egypt;Peru
+Intermediate;What is the name of the desert that covers most of North Africa?;Sahara Desert,Gobi Desert,Kalahari Desert,Arabian Desert;Sahara Desert
+Intermediate;What is the currency of Switzerland?;Swiss Franc,Euro,Dollar,Pound;Swiss Franc
+Intermediate;Which ocean is located between Europe and North America?;Atlantic Ocean,Pacific Ocean,Indian Ocean,Arctic Ocean;Atlantic Ocean
+Intermediate;What is the capital of Japan?;Tokyo,Beijing,Seoul,Bangkok;Tokyo
+Intermediate;Which country is known as the 'Land of the Rising Sun'?;Japan,China,South Korea,Vietnam;Japan
+Intermediate;Which country is the largest in Africa by area?;Algeria,Democratic Republic of Congo,Sudan,Libya;Algeria
+Intermediate;What is the name of the mountain range that separates Europe and Asia?;Ural Mountains,Himalayas,Alps,Andes;Ural Mountains
+Intermediate;Which is the smallest country in the world by land area?;Vatican City,Monaco,Nauru,San Marino;Vatican City
+Intermediate;Which continent is home to the Nile River, the longest river in the world?;Africa,Asia,South America,Europe;Africa
+Intermediate;What is the capital of Australia?;Canberra,Sydney,Melbourne,Brisbane;Canberra
+Intermediate;What is the official language of Brazil?;Portuguese,Spanish,English,French;Portuguese
+Intermediate;Which famous landmark is in Rome, Italy?;Colosseum,Eiffel Tower,Great Wall of China,Statue of Liberty;Colosseum
+Intermediate;What is the highest mountain in Africa?;Mount Kilimanjaro,Mount Everest,Mount Denali,Mount Aconcagua;Mount Kilimanjaro
+Intermediate;What is the most widely spoken language in the world?;Mandarin Chinese,Spanish,English,Hindi;Mandarin Chinese
+Intermediate;Which country is a major producer of coffee and has a famous carnival?;Brazil,Colombia,Mexico,Italy;Brazil
+Intermediate;What is the capital of Egypt?;Cairo,Alexandria,Giza,Luxor;Cairo
+Intermediate;Which sea is bordered by Europe, Asia, and Africa?;Mediterranean Sea,Black Sea,Red Sea,Caspian Sea;Mediterranean Sea
+Intermediate;What is the primary gas found in the Earth's atmosphere?;Nitrogen,Oxygen,Carbon Dioxide,Argon;Nitrogen
+Intermediate;Who developed the theory of relativity?;Albert Einstein,Isaac Newton,Galileo Galilei,Stephen Hawking;Albert Einstein
+Intermediate;What is the chemical symbol for gold?;Au,Ag,Fe,Na;Au
+Intermediate;Who invented the first practical telephone?;Alexander Graham Bell,Thomas Edison,Nikola Tesla,Benjamin Franklin;Alexander Graham Bell
+Intermediate;What is the SI unit of force?;Newton,Joule,Watt,Volt;Newton
+Intermediate;Which planet is known as the 'Red Planet'?;Mars,Jupiter,Venus,Saturn;Mars
+Intermediate;What is the main function of the heart in the human body?;To pump blood,To process food,To filter air,To think;To pump blood
+Intermediate;What does 'DNA' stand for?;Deoxyribonucleic acid,Deoxyribonucleic atom,Deoxyribonucleic array,Deoxyribonucleic alignment;Deoxyribonucleic acid
+Intermediate;Who invented the light bulb?;Thomas Edison,Nikola Tesla,Alexander Graham Bell,Benjamin Franklin;Thomas Edison
+Intermediate;What is the process of a liquid turning into a gas called?;Evaporation,Condensation,Melting,Freezing;Evaporation
+Intermediate;What part of a computer is the 'brain'?;CPU,RAM,Hard Drive,Monitor;CPU
+Intermediate;What is the chemical symbol for table salt?;NaCl,H2O,CO2,O2;NaCl
+Intermediate;What is the study of living organisms called?;Biology,Physics,Chemistry,Geology;Biology
+Intermediate;Which invention is credited to Johannes Gutenberg?;Printing Press,Telephone,Light Bulb,Steam Engine;Printing Press
+Intermediate;What is the name of the supercontinent that existed millions of years ago?;Pangaea,Gondwana,Laurasia,Rodinia;Pangaea
+Intermediate;What is the process by which plants convert sunlight into food?;Photosynthesis,Respiration,Transpiration,Germination;Photosynthesis
+Intermediate;What is the boiling point of water in Celsius?;100 °C,0 °C,50 °C,212 °C;100 °C
+Intermediate;What is the name of the force that pulls objects towards the Earth's center?;Gravity,Magnetism,Friction,Tension;Gravity
+Intermediate;Who is known for discovering penicillin?;Alexander Fleming,Louis Pasteur,Marie Curie,Jonas Salk;Alexander Fleming
+Intermediate;Which invention is Nikola Tesla most known for?;Alternating Current,Direct Current,Radio,Telephone;Alternating Current
+Intermediate;What is the name of the first satellite launched into space?;Sputnik 1,Apollo 11,Voyager 1,Hubble;Sputnik 1
+Intermediate;What is the smallest planet in our solar system?;Mercury,Mars,Venus,Earth;Mercury
+Intermediate;What is the element with the atomic number 1?;Hydrogen,Helium,Oxygen,Carbon;Hydrogen
+Intermediate;What is the term for a substance that speeds up a chemical reaction without being consumed?;Catalyst,Enzyme,Inhibitor,Reactant;Catalyst
+Intermediate;What does URL stand for?;Uniform Resource Locator,Universal Resource Link,Unique Resource Locator,User Resource Link;Uniform Resource Locator
+Intermediate;Who formulated the laws of motion and universal gravitation?;Isaac Newton,Albert Einstein,Stephen Hawking,Galileo Galilei;Isaac Newton
+Intermediate;Which international brand is known for its 'Just Do It' slogan?;Nike,Adidas,Puma,Reebok;Nike
+Intermediate;What country did the car brand BMW originate from?;Germany,United States,Japan,Italy;Germany
+Intermediate;Which company is known for the iPhone and MacBook?;Apple,Microsoft,Samsung,Google;Apple
+Intermediate;What international brand's logo is a red and white target symbol?;Target,Walmart,Kmart,Tesco;Target
+Intermediate;Which company is the parent of YouTube?;Google,Facebook,Amazon,Twitter;Google
+Intermediate;What country did the car brand Toyota originate from?;Japan,Germany,United States,South Korea;Japan
+Intermediate;Which brand is famous for its golden arches logo?;McDonald's,Burger King,KFC,Subway;McDonald's
+Intermediate;What brand is famous for its colorful building blocks?;LEGO,Mattel,Hasbro,Play-Doh;LEGO
+Intermediate;What company created the first video game console for home use?;Magnavox,Atari,Nintendo,Sega;Magnavox
+Intermediate;What brand is known for its swoosh logo?;Nike,Adidas,Puma,Under Armour;Nike
+Intermediate;Which international brand is famous for its 'Enjoy the good life' slogan?;Heineken,Coca-Cola,Pepsi,Nestlé;Heineken
+Intermediate;What company is the world's largest online retailer?;Amazon,Alibaba,eBay,Walmart;Amazon
+Intermediate;What country is the car brand Ferrari from?;Italy,Germany,France,United Kingdom;Italy
+Intermediate;What brand's logo is a crocodile?;Lacoste,Ralph Lauren,Gucci,Hermès;Lacoste
+Intermediate;Which tech company is known for its search engine and 'Don't be evil' motto?;Google,Apple,Microsoft,Facebook;Google
+Intermediate;What company is the world's largest sportswear manufacturer?;Nike,Adidas,Puma,Under Armour;Nike
+Intermediate;What country did the brand Samsung originate from?;South Korea,Japan,China,United States;South Korea
+Intermediate;Which brand is known for its 'Powerade' and 'Minute Maid' products?;Coca-Cola,Pepsi,Nestlé,Unilever;Coca-Cola
+Intermediate;What country is the fashion brand Gucci from?;Italy,France,United States,United Kingdom;Italy
+Intermediate;Which company owns the social media platforms Facebook, Instagram, and WhatsApp?;Meta,Google,Twitter,Microsoft;Meta
+Intermediate;What brand is known for its 'PlayStation' gaming console?;Sony,Microsoft,Nintendo,Sega;Sony
+Intermediate;What country did the car brand Volkswagen originate from?;Germany,United States,Japan,France;Germany
+Intermediate;Which brand is known for its 'Think Different' advertising campaign?;Apple,Microsoft,IBM,Google;Apple
+Intermediate;What company is famous for its 'Big Mac' and 'Happy Meal'?;McDonald's,Burger King,KFC,Subway;McDonald's
+Intermediate;Which brand is known for its 'Red Bull gives you wings' slogan?;Red Bull,Monster,Rockstar,Gatorade;Red Bull
+Intermediate;What country is the brand IKEA from?;Sweden,Norway,Denmark,Finland;Sweden
+Intermediate;Which brand is known for its iconic blue jeans?;Levi's,Wrangler,Calvin Klein,Lee;Levi's
+Intermediate;What company is famous for its 'Windows' operating system?;Microsoft,Apple,Google,IBM;Microsoft
+Intermediate;What country is the car brand Honda from?;Japan,South Korea,Germany,United States;Japan
+Intermediate;Which brand's logo is a leaping cat?;Puma,Jaguar,Nike,Adidas;Puma
+Intermediate;Which company is the world's largest fast-food chain?;McDonald's,Starbucks,KFC,Subway;McDonald's
+Intermediate;What country is the brand Rolex from?;Switzerland,United Kingdom,France,Germany;Switzerland
+Intermediate;Which company created the Xbox gaming console?;Microsoft,Sony,Nintendo,Sega;Microsoft
+Intermediate;What brand is known for its 'The Best a Man Can Get' slogan?;Gillette,Old Spice,Axe,Nivea;Gillette
+Intermediate;Which country is the car brand Audi from?;Germany,France,Italy,United States;Germany
+Intermediate;What company is famous for its 'Barbie' dolls?;Mattel,Hasbro,LEGO,Fisher-Price;Mattel
+Intermediate;Which brand is known for its 'Share a Coke' campaign?;Coca-Cola,Pepsi,Sprite,Fanta;Coca-Cola
+Intermediate;What country is the car brand Hyundai from?;South Korea,Japan,China,Germany;South Korea
+Intermediate;Which brand is known for its 'Kit Kat' chocolate bar?;Nestlé,Cadbury,Mars,Hershey's;Nestlé
+Intermediate;What company is famous for its 'Air Jordan' sneakers?;Nike,Adidas,Puma,Reebok;Nike
+Intermediate;Which country is the car brand Lamborghini from?;Italy,Germany,France,United States;Italy
+Intermediate;What brand is known for its 'L'Oréal Paris' slogan?;L'Oréal,Maybelline,Revlon,Nivea;L'Oréal
+Intermediate;Which company is a major producer of smartphones and home appliances and has its headquarters in South Korea?;Samsung,Apple,LG,Sony;Samsung
+Intermediate;What country is the brand Sony from?;Japan,South Korea,United States,China;Japan
+Intermediate;What company is known for its 'Amazon Echo' and 'Kindle' products?;Amazon,Google,Apple,Microsoft;Amazon
+Intermediate;Which brand is known for its 'Happy Meal' and 'Big Mac'?;McDonald's,Burger King,KFC,Subway;McDonald's
+Intermediate;What country is the brand Zara from?;Spain,Italy,France,United Kingdom;Spain
+Intermediate;What company is famous for its 'PlayStation' gaming console?;Sony,Microsoft,Nintendo,Sega;Sony
+Intermediate;Which brand is known for its 'Because You're Worth It' slogan?;L'Oréal,Pantene,Garnier,Dove;L'Oréal
+Intermediate;What country is the car brand Mercedes-Benz from?;Germany,United States,Japan,France;Germany
+Intermediate;What company is the parent of Instagram?;Meta,Google,Twitter,Snap Inc.;Meta
+Advanced;What is the boiling point of water in Kelvin?;373.15 K,273.15 K,100 K,0 K;373.15 K
+Advanced;What is the capital of Australia?;Canberra,Sydney,Melbourne,Brisbane;Canberra
+Advanced;Which famous scientist developed the theory of relativity?;Albert Einstein,Isaac Newton,Stephen Hawking,Galileo Galilei;Albert Einstein
+Advanced;What is the name of the smallest bone in the human body?;Stapes,Femur,Humerus,Patella;Stapes
+Advanced;What is the primary gas found in the Earth's atmosphere?;Nitrogen,Oxygen,Carbon Dioxide,Argon;Nitrogen
+Advanced;Who was the first person to step on the Moon?;Neil Armstrong,Buzz Aldrin,Yuri Gagarin,Alan Shepard;Neil Armstrong
+Advanced;What is the rarest blood type in humans?;AB Negative,O Negative,A Positive,B Positive;AB Negative
+Advanced;What is the highest mountain in North America?;Denali,Mount Logan,Mount Rainier,Pico de Orizaba;Denali
+Advanced;Which element has the atomic number 1?;Hydrogen,Helium,Oxygen,Carbon;Hydrogen
+Advanced;In which sport would you use a chanterelle?;Curling,Skiing,Fencing,Golf;Fencing
+Beginner;What organ pumps blood throughout the body?;Heart,Brain,Lungs,Stomach;Heart
+Beginner;Which body part is used for thinking?;Brain,Stomach,Kidneys,Lungs;Brain
+Beginner;What do we use to see?;Eyes,Ears,Nose,Mouth;Eyes
+Beginner;What part of the body do you use to hear?;Ears,Eyes,Nose,Tongue;Ears
+Beginner;Which organ helps us breathe?;Lungs,Liver,Heart,Stomach;Lungs
+Beginner;What part of the body is used for smelling?;Nose,Mouth,Hand,Foot;Nose
+Beginner;Which body part helps you taste food?;Tongue,Teeth,Nose,Eyes;Tongue
+Beginner;What part of the body connects your hand to your arm?;Wrist,Ankle,Elbow,Knee;Wrist
+Beginner;What part of the body connects your foot to your leg?;Ankle,Wrist,Elbow,Shoulder;Ankle
+Beginner;What is the largest organ of the human body?;Skin,Heart,Brain,Lungs;Skin
+Beginner;What body part helps you stand upright?;Spine,Ribs,Skull,Jaw;Spine
+Beginner;Which part of your body protects your brain?;Skull,Ribs,Spine,Pelvis;Skull
+Beginner;What organ cleans the blood and produces bile?;Liver,Kidneys,Pancreas,Spleen;Liver
+Beginner;What do bones do for the body?;Provide support,Pump blood,Breathe air,Digest food;Provide support
+Beginner;What part of the body allows you to bend your leg?;Knee,Elbow,Wrist,Ankle;Knee
+Beginner;What organ helps to filter waste from your blood?;Kidneys,Lungs,Stomach,Liver;Kidneys
+Beginner;What is the main function of the stomach?;Digest food,Pump blood,Think,Breathe;Digest food
+Beginner;What is the funny bone part of the body?;Elbow,Knee,Shoulder,Wrist;Elbow
+Beginner;What part of your body is used for gripping?;Hand,Foot,Knee,Ear;Hand
+Beginner;What body part protects your lungs and heart?;Ribs,Skull,Spine,Pelvis;Ribs
+Beginner;Which organ is part of the circulatory system?;Heart,Stomach,Liver,Brain;Heart
+Beginner;Which organ helps to make insulin?;Pancreas,Liver,Kidneys,Stomach;Pancreas
+Beginner;What are the small tubes that carry air to the lungs?;Bronchi,Veins,Arteries,Nerves;Bronchi
+Beginner;Which part of the body is responsible for balance?;Inner ear,Eye,Nose,Tongue;Inner ear
+Beginner;What is the longest bone in the human body?;Femur,Tibia,Humerus,Ulna;Femur
+Beginner;What are the small hair-like structures in the nose called?;Cilia,Villi,Nerves,Bones;Cilia
+Beginner;Which part of the body is used for chewing food?;Teeth,Tongue,Nose,Ears;Teeth
+Beginner;What is the main function of the small intestine?;Absorbing nutrients,Pumping blood,Breathing,Protecting the brain;Absorbing nutrients
+Beginner;What is the largest artery in the human body?;Aorta,Vena cava,Pulmonary artery,Carotid artery;Aorta
+Beginner;What is the function of the esophagus?;Carries food to the stomach,Pumps blood,Filters blood,Helps with balance;Carries food to the stomach
+Beginner;Which body part is a ball-and-socket joint?;Shoulder,Elbow,Knee,Ankle;Shoulder
+Beginner;What is the main function of red blood cells?;Carry oxygen,Fight infection,Clot blood,Produce energy;Carry oxygen
+Beginner;Which body part is responsible for filtering blood?;Kidneys,Stomach,Lungs,Liver;Kidneys
+Beginner;Which organ is located behind the stomach?;Pancreas,Liver,Spleen,Kidneys;Pancreas
+Beginner;What is the main function of the large intestine?;Absorbing water,Absorbing nutrients,Pumping blood,Breathing;Absorbing water
+Beginner;Which part of the body is the 'control center'?;Brain,Heart,Lungs,Stomach;Brain
+Beginner;Which organ makes the most cholesterol?;Liver,Heart,Brain,Stomach;Liver
+Beginner;What do muscles do for the body?;Allow movement,Provide support,Filter blood,Produce hormones;Allow movement
+Beginner;What is the main function of the spleen?;Filtering blood,Digesting food,Producing hormones,Providing support;Filtering blood
+Beginner;Which of these is a bone in the arm?;Humerus,Femur,Tibia,Patella;Humerus
+Beginner;Which part of the body is called the windpipe?;Trachea,Esophagus,Bronchi,Larynx;Trachea
+Beginner;What is the main function of the gall bladder?;Stores bile,Produces bile,Pumps blood,Filters blood;Stores bile
+Beginner;Which organ is responsible for sound production?;Larynx,Pharynx,Trachea,Bronchi;Larynx
+Beginner;What is the main function of white blood cells?;Fight infection,Carry oxygen,Clot blood,Produce energy;Fight infection
+Beginner;Which part of the body has the smallest bone?;Ear,Nose,Hand,Foot;Ear
+Beginner;Which organ is the source of many hormones?;Thyroid,Liver,Kidneys,Spleen;Thyroid
+Beginner;What part of the body is known as the voice box?;Larynx,Pharynx,Trachea,Esophagus;Larynx
+Beginner;Which bone is in the upper leg?;Femur,Tibia,Fibula,Humerus;Femur
+Beginner;What is the main function of the appendix?;Unknown,Digests food,Pumps blood,Produces hormones;Unknown
+Beginner;Which body part is used to taste sweet, sour, salty, and bitter flavors?;Tongue,Nose,Eyes,Ears;Tongue
+Beginner;What is the main objective in a game of football (soccer)?;To score a touchdown,To hit a home run,To shoot the ball into the opponent's goal,To run around the bases;To shoot the ball into the opponent's goal
+Beginner;Which sport uses a black and white ball and is the most popular in the world?;Basketball,Football (Soccer),Tennis,Baseball;Football (Soccer)
+Beginner;The Olympic Games are held every how many years?;2,4,6,10;4
+Beginner;Which country is famous for hosting the first modern Olympic Games?;Italy,Greece,France,China;Greece
+Beginner;What sport involves hitting a ball over a net with a racket?;Swimming,Basketball,Tennis,Hockey;Tennis
+Beginner;In which sport would you try to score a goal on a large ice rink?;Ice Skating,Ice Hockey,Skiing,Curling;Ice Hockey
+Beginner;What color is the medal for the first-place winner at the Olympics?;Bronze,Silver,Gold,Platinum;Gold
+Beginner;Which global event is for countries to compete in football (soccer)?;Wimbledon,Super Bowl,FIFA World Cup,NBA Finals;FIFA World Cup
+Beginner;How many players are on a soccer team on the field at one time?;5,9,11,7;11
+Beginner;What is the name of the legendary Brazilian footballer often called 'The King'?;Lionel Messi,Pele,Cristiano Ronaldo,Diego Maradona;Pele
+Beginner;How many points do you get for shooting a basketball from behind the arc?;1,2,3,4;3
+Beginner;What is the championship event in professional American football?;World Series,Super Bowl,NBA Finals,Stanley Cup;Super Bowl
+Beginner;What sport uses a bat and a small ball, with players running between bases?;Hockey,Golf,Baseball,Volleyball;Baseball
+Beginner;Which country is home to the famous tennis tournament called Wimbledon?;USA,Australia,France,United Kingdom;United Kingdom
+Beginner;The Winter Olympics feature sports played on what surface?;Grass,Water,Ice and snow,Sand;Ice and snow
+Beginner;Who is the famous basketball player known for the 'slam dunk' and his number 23 jersey?;LeBron James,Kobe Bryant,Michael Jordan,Stephen Curry;Michael Jordan
+Beginner;What do you call a person who runs a very fast race?;Swimmer,Sprinter,Jumper,Wrestler;Sprinter
+Beginner;What is the main goal in a game of basketball?;To hit a ball with a bat,To score a touchdown,To shoot the ball through the hoop,To get a hole-in-one;To shoot the ball through the hoop
+Beginner;In the Olympics, how many rings are on the Olympic flag?;3,7,5,4;5
+Beginner;What sport is a race to be the fastest in the water?;Diving,Synchronized Swimming,Swimming,Water Polo;Swimming
+Beginner;What is a very long distance running race called, typically over 42 kilometers?;100-meter sprint,Marathon,Relay race,Steeplechase;Marathon
+Beginner;Which sport uses a club to hit a small ball into a hole?;Baseball,Tennis,Golf,Bowling;Golf
+Beginner;What is the championship event in professional basketball in the US?;World Cup,NBA Finals,Stanley Cup,Super Bowl;NBA Finals
+Beginner;What sport involves two teams hitting a ball over a net with their hands?;Tennis,Volleyball,Basketball,Hockey;Volleyball
+Beginner;What is the most famous tennis tournament in the USA?;Wimbledon,French Open,US Open,Australian Open;US Open
+Beginner;What is the name of the running event where a team of runners takes turns running a part of the race?;100-meter sprint,Marathon,Relay race,Obstacle race;Relay race
+Beginner;In which sport would you try to throw a ball through a hoop on a tall pole?;Football,Baseball,Basketball,Volleyball;Basketball
+Beginner;What is the main piece of equipment in the sport of badminton?;Racket,Bat,Club,Stick;Racket
+Beginner;In the sport of gymnastics, what is the name of the long, narrow piece of equipment a gymnast balances on?;Balance Beam,Vault,Parallel Bars,Rings;Balance Beam
+Beginner;Which sport is played with a shuttlecock and a racket?;Tennis,Table Tennis,Badminton,Squash;Badminton
+Beginner;What is the name of the professional baseball league in the United States?;NFL,NBA,MLB,NHL;MLB
+Beginner;What is the name of the final game of the National Football League season?;The World Series,The Super Bowl,The Stanley Cup,The NBA Finals;The Super Bowl
+Beginner;Which sport involves hitting a puck with a stick on the ice?;Ice Hockey,Field Hockey,Curling,Figure Skating;Ice Hockey
+Beginner;What is the color of the medal for the third-place finisher at the Olympics?;Gold,Silver,Bronze,Platinum;Bronze
+Beginner;Which sport takes place in a large, oval stadium and involves a bat, ball, and wickets?;Baseball,Cricket,Rugby,Lacrosse;Cricket
+Beginner;In which sport would you perform tricks on a snowboard down a snowy mountain?;Skiing,Figure Skating,Snowboarding,Bobsledding;Snowboarding
+Beginner;What is the most common name for the field where a baseball game is played?;Court,Pitch,Stadium,Diamond;Diamond
+Beginner;Which sport is known for being played in a pool with two teams trying to score a goal with a ball?;Water Polo,Swimming,Diving,Synchronized Swimming;Water Polo
+Beginner;What is the name of the long-distance running race where runners race through streets?;Marathon,Sprint,Relay,Hurdle;Marathon
+Beginner;Which sport uses a stick and a ball on a field with grass?;Ice Hockey,Field Hockey,Golf,Baseball;Field Hockey
+Beginner;What is the name of the famous bicycle race that happens every year in France?;Tour de France,Giro d'Italia,Vuelta a España,Paris–Roubaix;Tour de France
+Beginner;In a game of basketball, how many players are on a team on the court at a time?;3,5,7,9;5
+Beginner;What is the name of the sport where a person jumps off a high board into water?;Swimming,Water Polo,Diving,Surfing;Diving
+Beginner;Which sport is played with a helmet and pads, and involves a 'touchdown'?;Baseball,Basketball,American Football,Soccer;American Football
+Beginner;What is the name of the large tournament for professional tennis players, held in Australia?;Wimbledon,US Open,Australian Open,French Open;Australian Open
+Beginner;What do you call a person who competes in races by driving a car very fast on a track?;Jockey,Driver,Pilot,Captain;Driver
+Beginner;What is the main piece of equipment in the sport of golf?;Racket,Club,Bat,Stick;Club
+Beginner;Which sport involves competing in a pool by doing different strokes like freestyle or backstroke?;Swimming,Diving,Water Polo,Rowing;Swimming
+Beginner;What sport is played on a table with a small ball and two small paddles?;Badminton,Tennis,Table Tennis,Volleyball;Table Tennis
+Beginner;What is the championship series for professional baseball in North America called?;Super Bowl,World Series,Stanley Cup,NBA Finals;World Series
+Beginner;In which sport would you use a large bat and hit a bowled ball?;Baseball,Cricket,Tennis,Golf;Cricket
+Beginner;What is the name of the sport where you glide on skis over snow?;Snowboarding,Skiing,Bobsledding,Curling;Skiing
+Advanced;Which company is the largest shareholder in Twitter (now X)?;Elon Musk,Jack Dorsey,Prince Alwaleed bin Talal,Vanguard Group;Elon Musk
+Advanced;Which country is the world's largest exporter of crude oil?;United States,Russia,Saudi Arabia,China;Saudi Arabia
+Advanced;What does the acronym 'OPEC' stand for in international economics?;Organization of Petroleum Exporting Countries,Office of Public Economic Committee,Organization for Political and Economic Cooperation,Overseas Petroleum and Energy Consortium;Organization of Petroleum Exporting Countries
+Advanced;Which city hosted the most recent G20 Leaders' Summit?;New Delhi,Rome,Osaka,Jakarta;New Delhi
+Advanced;The term 'Silicon Valley' is a hub for which industry?;Biotechnology,Aerospace,Information Technology,Automotive;Information Technology
+Advanced;What is the name of the international agreement on climate change that succeeded the Kyoto Protocol?;Copenhagen Accord,Paris Agreement,Geneva Convention,Montreal Protocol;Paris Agreement
+Advanced;What does 'GDP' stand for in economic terms?;Gross Domestic Product,General Development Plan,Global Demographic Progress,Government Debt Plan;Gross Domestic Product
+Advanced;Which company developed the world's first commercially available self-driving car?;Tesla,Ford,Waymo,Uber;Waymo
+Advanced;In sports, what is the term for a team's value, including its assets and brand?;Market capitalization,Revenue,Franchise valuation,Net profit;Franchise valuation
+Advanced;Which country is currently the world's largest economy by nominal GDP?;United States,China,Japan,Germany;United States
+Advanced;What is the purpose of the 'European Central Bank'?;To manage trade agreements,To control monetary policy for the Eurozone,To regulate international banking,To provide loans to developing countries;To control monetary policy for the Eurozone
+Advanced;Which technology is at the center of the debate on data privacy and large language models?;Blockchain,5G networks,Artificial Intelligence,Quantum Computing;Artificial Intelligence
+Advanced;The 'Shanghai Cooperation Organisation' (SCO) is a political and security alliance led by which two countries?;USA and Russia,India and Japan,China and Russia,Germany and France;China and Russia
+Advanced;Which major sporting league recently faced scrutiny for its 'salary cap' rules?;NFL,NBA,NHL,MLB;NFL
+Advanced;What is the primary function of the 'World Trade Organization' (WTO)?;To manage global trade disputes,To provide aid to developing nations,To regulate international banking,To promote democracy;To manage global trade disputes
+Advanced;In what year did the Euro currency officially become legal tender in most European Union countries?;1999,2000,2002,2005;2002
+Advanced;Which country's government is known for its 'Belt and Road Initiative'?;Russia,China,India,Brazil;China
+Advanced;The 'Hindenburg Research' report focused on which major Indian business conglomerate?;Reliance Industries,Tata Group,Adani Group,Infosys;Adani Group
+Advanced;Which technology is the basis for cryptocurrencies like Bitcoin?;Cloud computing,Blockchain,Virtual reality,Machine learning;Blockchain
+Advanced;What is the main purpose of a 'trade deficit' in international economics?;When exports exceed imports,When imports exceed exports,When a country has no trade partners,When a country has no national debt;When imports exceed exports
+Advanced;Which company acquired the professional gaming company Activision Blizzard?;Apple,Microsoft,Sony,Amazon;Microsoft
+Advanced;Which international court hears disputes between countries?;International Criminal Court (ICC),International Court of Justice (ICJ),European Court of Human Rights (ECHR),World Court of Law (WCL);International Court of Justice (ICJ)
+Advanced;What is the primary objective of the 'International Monetary Fund' (IMF)?;To provide humanitarian aid,To secure global financial stability,To promote tourism,To regulate global internet traffic;To secure global financial stability
+Advanced;What is the term for a period of widespread economic decline and high unemployment?;Inflation,Deflation,Recession,Stagflation;Recession
+Advanced;Which law passed in the US aimed to reduce inflation by lowering the deficit?;Inflation Reduction Act,Tax Cuts and Jobs Act,Affordable Care Act,American Rescue Plan;Inflation Reduction Act
+Advanced;The 'WTA' and 'ATP' are the governing bodies for which sport?;Basketball,Tennis,Hockey,Football;Tennis
+Advanced;What is the name of the new US space program aimed at returning humans to the Moon?;Gemini,Apollo,Artemis,Orion;Artemis
+Advanced;What is a 'carbon tax' designed to reduce?;Global poverty,Income inequality,Greenhouse gas emissions,Unemployment;Greenhouse gas emissions
+Advanced;Which tech company is the parent of Google?;Alphabet Inc.,Meta,Microsoft,Apple;Alphabet Inc.
+Advanced;Which global event led to a major disruption in global supply chains in the early 2020s?;The FIFA World Cup,The COVID-19 pandemic,The G20 Summit,The Olympic Games;The COVID-19 pandemic
+Advanced;What is the term for a country's official currency losing value against other currencies?;Inflation,Deflation,Depreciation,Appreciation;Depreciation
+Advanced;Which country is home to the world's busiest container port by volume?;United States,China,Germany,Singapore;China
+Advanced;What is the primary mission of the 'World Health Organization' (WHO)?;To promote international tourism,To coordinate global health efforts,To manage global trade,To regulate international banking;To coordinate global health efforts
+Advanced;The term 'Metaverse' is most closely associated with which company?;NVIDIA,Apple,Meta,Amazon;Meta
+Advanced;What is a 'trade war'?;A conflict over borders,A disagreement about trade policy,A competition between countries,A dispute over sports teams;A disagreement about trade policy
+Advanced;Which country is currently the world's largest producer of steel?;United States,Russia,China,India;China
+Advanced;What is a 'geopolitical risk' in business?;A risk from a natural disaster,A risk from a political event in a country,A risk from a stock market crash,A risk from a new competitor;A risk from a political event in a country
+Advanced;What does 'IPOs' stand for in financial markets?;Initial Public Offerings,International Profit Operations,Investment Performance Outcomes,Interest Payment Options;Initial Public Offerings
+Advanced;Which sports organization is most associated with the use of 'blockchain' technology for player contracts?;NBA,FIFA,NFL,Formula 1;NBA
+Advanced;The 'Nord Stream 2' pipeline project was a major point of contention between Russia and which other country?;China,United Kingdom,Germany,India;Germany
+Advanced;What is the primary function of the 'Federal Reserve' in the United States?;To print money,To manage national parks,To provide loans for students,To manage the country's monetary policy;To manage the country's monetary policy
+Advanced;Which country recently joined the BRICS group of emerging economies?;Egypt,Turkey,Mexico,South Korea;Egypt
+Advanced;What is the term for a company that controls most of the market for a specific product or service?;Oligopoly,Monopoly,Duopoly,Cartel;Monopoly
+Advanced;Which sport's players recently went on a strike over a collective bargaining agreement?;MLB,NBA,NHL,NFL;MLB
+Advanced;What is the name of the global economic forum held in Switzerland each year?;Davos,Cannes,G7,WTO;Davos
+Advanced;What is a 'patent troll' in the tech industry?;A person who creates a lot of patents,A company that buys patents to sue others,A company that gives away patents for free,A government body that regulates patents;A company that buys patents to sue others
+Advanced;What is the name of the trade agreement between the United States, Mexico, and Canada?;NAFTA,EU,USMCA,ASEAN;USMCA
+Advanced;Which company recently acquired the messaging app WhatsApp?;Google,Apple,Meta,Microsoft;Meta
+Advanced;What is the name of the UN organization responsible for providing humanitarian aid to children?;UNICEF,WHO,UNESCO,ILO;UNICEF
+Advanced;Which country holds the largest amount of US national debt?;China,Japan,United Kingdom,Germany;Japan
+Advanced;What is the name of the regulation enforced by UEFA to control spending by European football clubs?;Financial Fair Play,Revenue Sharing Agreement,Transfer Cap Rule,Club Licensing System;Financial Fair Play
+Advanced;Which country's national team is known for winning the most FIFA World Cups?;Brazil,Germany,Argentina,Italy;Brazil
+Advanced;In which year did Major League Baseball's 'Steroid Era' reach its peak, leading to a major scandal?;1988,1995,2001,2009;2001
+Advanced;The term 'Moneyball' in baseball strategy is most famously associated with which team?;New York Yankees,Boston Red Sox,Oakland Athletics,Los Angeles Dodgers;Oakland Athletics
+Advanced;Which city will host the Summer Olympic Games in 2024?;Los Angeles,Tokyo,Paris,London;Paris
+Advanced;What is the term for a player's contract clause that allows them to move to another team without a transfer fee?;Salary Cap,Free Agency,Release Clause,Buyout Clause;Release Clause
+Advanced;Which famous athlete was stripped of his seven Tour de France titles due to a doping scandal?;Lance Armstrong,Floyd Landis,Jan Ullrich,Alberto Contador;Lance Armstrong
+Advanced;Which of these Grand Slam tennis tournaments is played on a clay court?;Wimbledon,US Open,Australian Open,French Open;French Open
+Advanced;The 'NHL' is the top professional league for which sport in North America?;American Football,Baseball,Basketball,Ice Hockey;Ice Hockey
+Advanced;What is the name of the major annual multi-sport event in the United Kingdom, often featuring the Commonwealth of Nations?;Commonwealth Games,British Games,United Kingdom Games,King's Cup;Commonwealth Games
+Advanced;The 'IPL' is the largest and most successful domestic league for which sport?;Basketball,Tennis,Cricket,Football;Cricket
+Advanced;What is the 'transfer fee' in professional sports?;A fee paid to a player to change teams,A fee paid to the player's former team for a contract,A fee paid to a sports agent,A fee paid to a new club for a player;A fee paid to the player's former team for a contract
+Advanced;Which country holds the record for the most Olympic gold medals in total?;United States,China,Russia,Germany;United States
+Advanced;What is the name of the prestigious horse race held annually in Louisville, Kentucky, USA?;Preakness Stakes,Kentucky Derby,Belmont Stakes,Royal Ascot;Kentucky Derby
+Advanced;The term 'Dream Team' in basketball refers to the US men's team from which Olympic Games?;1984 Los Angeles,1988 Seoul,1992 Barcelona,1996 Atlanta;1992 Barcelona
+Advanced;Which of these sports is a part of the Winter Olympic Games?;Artistic Swimming,Synchronized Diving,Freestyle Skiing,Beach Volleyball;Freestyle Skiing
+Advanced;What is the main objective of the 'WADA' (World Anti-Doping Agency)?;To manage sports events,To promote clean sport through testing,To represent athletes' rights,To negotiate player contracts;To promote clean sport through testing
+Advanced;Which of these professional sports leagues has a 'salary cap' to limit team payrolls?;MLB,NBA,NHL,All of the above;All of the above
+Advanced;Which NFL team holds the record for the most Super Bowl victories?;Green Bay Packers,New England Patriots,San Francisco 49ers,Dallas Cowboys;New England Patriots
+Advanced;The first modern Olympic Games were held in which city?;Paris,London,Athens,Rome;Athens
+Advanced;What is the name of the trophy awarded to the winner of the annual NHL playoffs?;Stanley Cup,Lombardi Trophy,Larry O'Brien Trophy,FIFA World Cup Trophy;Stanley Cup
+Advanced;What does 'VAR' stand for in football (soccer)?;Video Assistant Referee,Vast Area Referee,Voluntary Assistant Referee,Visual Assessment Review;Video Assistant Referee
+Advanced;Which major sporting event's broadcasting rights are among the most expensive in the world?;Super Bowl,FIFA World Cup,Olympic Games,All of the above;All of the above
+Advanced;In which sport would you find a team with a 'goalkeeper', 'defenders', and 'forwards'?;Basketball,American Football,Ice Hockey,Soccer;Soccer
+Advanced;Which country won the most medals at the 2020 Summer Olympics in Tokyo?;United States,China,Japan,Great Britain;United States
+Advanced;Which of these events is a part of the Summer Olympic Games?;Figure Skating,Bobsleigh,Skeleton,Artistic Gymnastics;Artistic Gymnastics
+Advanced;The 'Lombardi Trophy' is awarded to the winner of which major sporting event?;Super Bowl,NBA Finals,World Series,Stanley Cup;Super Bowl
+Advanced;What is the term for a professional golfer's first major win?;Ace,Albatross,Major Break,Maiden Major;Maiden Major
+Advanced;Which sport is played with a bat and a ball, and a series of three stumps (wickets)?;Baseball,Cricket,Rugby,Polo;Cricket
+Advanced;Which country hosted the first-ever FIFA World Cup?;France,Uruguay,Brazil,Italy;Uruguay
+Advanced;What is the name of the annual professional tennis tournament held in the United States?;Wimbledon,French Open,Australian Open,US Open;US Open
+Advanced;Which major sporting event is also known as 'The Greatest Spectacle in Racing'?;Daytona 500,Monaco Grand Prix,Indianapolis 500,Le Mans 24 Hours;Indianapolis 500
+Advanced;What is a 'Hat-trick' in sports?;Scoring three goals in a single game,Making three assists,Winning three medals,Making three saves;Scoring three goals in a single game
+Advanced;Which city hosted the most recent Winter Olympic Games in 2022?;PyeongChang,Beijing,Sochi,Vancouver;Beijing
+Advanced;What is the name of the famous bicycle race that spans three weeks across France?;Tour de France,Giro d'Italia,Vuelta a España,Paris–Roubaix;Tour de France
+Advanced;Which athlete is widely considered the greatest of all time in swimming, with the most Olympic medals?;Mark Spitz,Michael Phelps,Ryan Lochte,Ian Thorpe;Michael Phelps
+Advanced;The term 'Triple Crown' in horse racing refers to winning three specific races in which country?;United Kingdom,United States,Australia,Japan;United States
+Advanced;What is the term for a player or coach being removed from a game for bad conduct?;Penalty,Foul,Ejection,Dismissal;Ejection
+Advanced;Which NFL team holds the record for a perfect season (undefeated and untied)?;New England Patriots,Miami Dolphins,Chicago Bears,Green Bay Packers;Miami Dolphins
+Advanced;Which professional league has the longest regular season, with 162 games for each team?;NBA,NFL,MLB,NHL;MLB
+Advanced;The 'Ashes' is a famous test cricket series contested between which two countries?;India and Pakistan,England and Australia,South Africa and New Zealand,West Indies and Sri Lanka;England and Australia
+Advanced;What is the name of the major global event for disabled athletes, held after the Olympic Games?;Special Olympics,Para-Olympics,World Ability Games,Paralympic Games;Paralympic Games
+Advanced;In which sport does a 'touchdown' score points?;Soccer,Basketball,American Football,Baseball;American Football
+Advanced;Which country hosted the FIFA World Cup in 2022?;Brazil,Russia,Qatar,South Africa;Qatar
+Advanced;The 'Ryder Cup' is a major team competition in which sport?;Tennis,Golf,Rugby,Sailing;Golf
+Advanced;What is the main reason for the 'draft' system in major US sports leagues?;To ensure fair competition,To raise money for the league,To make contracts more affordable,To attract international players;To ensure fair competition
+Advanced;What is the main difference between the 'Summer' and 'Winter' Olympic Games?;The number of sports,The location,The types of sports played,The number of participating countries;The types of sports played
+Advanced;The 'Super Bowl' halftime show is a major pop culture event, but it is the championship game of which league?;NBA,NFL,MLB,NHL;NFL
+Advanced;Which tennis player has won the most men's Grand Slam singles titles in history?;Roger Federer,Rafael Nadal,Novak Djokovic,Andre Agassi;Novak Djokovic
+Advanced;Which city will be the first to host both the Summer and Winter Olympic Games?;Beijing,Paris,London,Tokyo;Beijing
+Beginner;What sound does a cow make?;Woof,Moo,Meow,Quack;Moo
+Beginner;Which animal is known as man's best friend?;Cat,Dog,Rabbit,Fish;Dog
+Beginner;What is a baby dog called?;Kitten,Pup,Calf,Chick;Pup
+Beginner;Which animal has a very long neck?;Zebra,Elephant,Giraffe,Bear;Giraffe
+Beginner;What does a bee live in?;Nest,Hive,Burrow,Den;Hive
+Beginner;Which animal is a big, grey animal with a long trunk?;Lion,Elephant,Giraffe,Zebra;Elephant
+Beginner;What sound does a pig make?;Baa,Oink,Neigh,Moo;Oink
+Beginner;Which farm animal gives us milk?;Pig,Chicken,Cow,Sheep;Cow
+Beginner;What is a baby cat called?;Pup,Calf,Kitten,Foal;Kitten
+Beginner;Which animal has black and white stripes?;Tiger,Lion,Leopard,Zebra;Zebra
+Beginner;Where does a bird build its home?;Hive,Burrow,Nest,Den;Nest
+Beginner;What sound does a snake make?;Hiss,Roar,Squeak,Cluck;Hiss
+Beginner;Which animal says "baa"?;Cow,Sheep,Pig,Duck;Sheep
+Beginner;What is a baby horse called?;Foal,Calf,Pup,Kitten;Foal
+Beginner;Which animal is the "king of the jungle"?;Tiger,Lion,Monkey,Bear;Lion
+Beginer;Which animal is known for its slow pace and hard shell?;Snail,Rabbit,Turtle,Fish;Turtle
+Beginner;What animal says "quack"?;Duck,Goose,Chicken,Turkey;Duck
+Beginner;Which animal is a large, wild cat with orange and black stripes?;Lion,Cheetah,Tiger,Leopard;Tiger
+Beginner;What is a baby sheep called?;Kid,Lamb,Calf,Foal;Lamb
+Beginner;Which animal loves to eat bananas?;Monkey,Bear,Squirrel,Fox;Monkey
+Beginner;Where does a dog live?;Nest,Kennel,Hive,Burrow;Kennel
+Beginner;What sound does a horse make?;Neigh,Roar,Meow,Bark;Neigh
+Beginner;Which animal has a pouch to carry its baby?;Kangaroo,Bear,Panda,Giraffe;Kangaroo
+Beginner;What is a baby cow called?;Calf,Foal,Pup,Kitten;Calf
+Beginner;Which animal is a pink farm animal that loves mud?;Sheep,Pig,Goat,Horse;Pig
+Beginner;Where does a bear live?;Den,Hive,Nest,Kennel;Den
+Beginner;What sound does a rooster make in the morning?;Moo,Oink,Cluck,Cock-a-doodle-doo;Cock-a-doodle-doo
+Beginner;Which animal hops and has long ears?;Kangaroo,Rabbit,Deer,Squirrel;Rabbit
+Beginner;What is a baby chicken called?;Chick,Pup,Kitten,Foal;Chick
+Beginner;Which animal is a fish that can puff up into a spiky ball?;Goldfish,Shark,Pufferfish,Dolphin;Pufferfish
+Beginner;What sound does a duck make?;Moo,Woof,Quack,Baa;Quack
+Beginner;Which animal is a large, flightless bird found in Australia?;Eagle,Ostrich,Emu,Penguin;Emu
+Beginner;Where does a rabbit live?;Burrow,Nest,Hive,Den;Burrow
+Beginner;What is a group of lions called?;Herd,Pack,Pride,Flock;Pride
+Beginner;Which animal is a large, land animal with a horn on its nose?;Rhino,Elephant,Hippopotamus,Buffalo;Rhino
+Beginner;What sound does a cat make?;Meow,Woof,Moo,Neigh;Meow
+Beginner;Which animal lives in the ocean and can spray water from a blowhole?;Dolphin,Shark,Whale,Jellyfish;Whale
+Beginner;What is a baby goat called?;Kid,Calf,Lamb,Foal;Kid
+Beginner;Which animal is a large, brown or black animal that hibernates in the winter?;Bear,Wolf,Lion,Fox;Bear
+Beginner;What sound does a frog make?;Croak,Ribbit,Chirp,Hiss;Ribbit
+Beginner;Which animal gives us wool?;Cow,Chicken,Pig,Sheep;Sheep
+Beginner;What is a group of fish called?;School,Pack,Herd,Pride;School
+Beginner;Which animal is a yellow and black insect that makes honey?;Ant,Bee,Butterfly,Fly;Bee
+Beginner;What sound does a dog make?;Woof,Moo,Meow,Neigh;Woof
+Beginner;Which animal is a very fast wild dog found in North America?;Wolf,Fox,Coyote,Jackal;Coyote
+Beginner;What is a baby deer called?;Fawn,Calf,Cub,Kitten;Fawn
+Beginner;Which animal is a small rodent with a long tail that loves cheese?;Squirrel,Mouse,Hamster,Rabbit;Mouse
+Beginner;What sound does a sheep make?;Roar,Baa,Woof,Oink;Baa
+Beginner;Which animal is a large reptile that lives near water and has a long snout?;Lizard,Snake,Alligator,Frog;Alligator
+Beginner;What is a baby bear called?;Cub,Pup,Kitten,Chick;Cub
+Beginner;Which continent is the largest?;Asia,Africa,North America,Europe;Asia
+Beginner;Which continent has the Great Wall of China?;Asia,Africa,Europe,South America;Asia
+Beginner;Which is the smallest continent?;Australia,Antarctica,Europe,South America;Australia
+Beginner;What is the largest ocean on Earth?;Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean;Pacific Ocean
+Beginner;Which continent is home to the Amazon Rainforest?;Africa,South America,Asia,Australia;South America
+Beginner;What is the second largest continent?;Africa,North America,Europe,Asia;Africa
+Beginner;Which ocean is between Europe and North America?;Pacific Ocean,Indian Ocean,Atlantic Ocean,Southern Ocean;Atlantic Ocean
+Beginner;On which continent would you find the country Egypt and its pyramids?;Asia,Africa,Europe,North America;Africa
+Beginner;Which continent is also a country?;Australia,Antarctica,North America,Europe;Australia
+Beginner;What is the ocean around the North Pole?;Atlantic Ocean,Pacific Ocean,Indian Ocean,Arctic Ocean;Arctic Ocean
+Beginner;Which continent is home to the United States and Canada?;South America,Europe,North America,Asia;North America
+Beginner;Which is the third largest ocean?;Indian Ocean,Arctic Ocean,Atlantic Ocean,Pacific Ocean;Indian Ocean
+Beginner;Which continent is the coldest and covered in ice?;Antarctica,Asia,North America,Europe;Antarctica
+Beginner;Which continent is known for its kangaroos and koalas?;Asia,Africa,Australia,South America;Australia
+Beginner;Which ocean is the third largest?;Atlantic Ocean,Indian Ocean,Southern Ocean,Pacific Ocean;Indian Ocean
+Beginner;On which continent would you find the Eiffel Tower in Paris, France?;Asia,Africa,Europe,South America;Europe
+Beginner;What is the name of the ocean around the South Pole?;Atlantic Ocean,Southern Ocean,Indian Ocean,Pacific Ocean;Southern Ocean
+Beginner;Which continent is connected to Asia but is often called a separate continent?;Africa,Europe,South America,North America;Europe
+Beginner;What is the smallest ocean on Earth?;Indian Ocean,Atlantic Ocean,Arctic Ocean,Pacific Ocean;Arctic Ocean
+Beginner;Which continent is home to the Sahara Desert?;Africa,Asia,North America,Australia;Africa
+Beginner;What is the largest continent in terms of land area?;Asia,Africa,North America,Antarctica;Asia
+Beginner;Which continent would you visit to see the statue of Christ the Redeemer in Brazil?;Europe,South America,Africa,Asia;South America
+Beginner;Which ocean is known for the Great Barrier Reef?;Atlantic Ocean,Pacific Ocean,Indian Ocean,Arctic Ocean;Pacific Ocean
+Beginner;Which continent is home to the country with the most people, China?;Asia,Africa,Europe,North America;Asia
+Beginner;Which of these is not an ocean?;Indian Ocean,Pacific Ocean,Mediterranean Ocean,Atlantic Ocean;Mediterranean Ocean
+Beginner;What is the name of the continent that is entirely in the Southern Hemisphere and Eastern Hemisphere?;Australia,South America,Africa,Antarctica;Australia
+Beginner;On which continent is the Nile River, the longest river in the world?;Asia,Africa,Europe,North America;Africa
+Beginner;Which of these is a major continent?;Pacific,Atlantic,Europe,Indian;Europe
+Beginner;What is the second largest ocean?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean;Atlantic Ocean
+Beginner;Which continent has a large desert called the Gobi Desert?;Africa,Asia,Australia,South America;Asia
+Beginner;What is the name of the continent that has no countries on it and is a large ice sheet?;Antarctica,Asia,Africa,Europe;Antarctica
+Beginner;Which continent is home to the Andes Mountains?;South America,Africa,Asia,North America;South America
+Beginner;Which of these is not a continent?;Europe,Asia,Pacific,Africa;Pacific
+Beginner;What is the largest of the five oceans?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean;Pacific Ocean
+Beginner;On which continent can you find the Pyramids of Giza?;Africa,Asia,Europe,North America;Africa
+Beginner;Which continent is famous for its large populations of lions and elephants in the wild?;Asia,Africa,Australia,South America;Africa
+Beginner;Which ocean is the warmest?;Atlantic Ocean,Pacific Ocean,Indian Ocean,Arctic Ocean;Indian Ocean
+Beginner;What is the name of the continent connected to North America by a narrow land bridge?;Europe,South America,Africa,Asia;South America
+Beginner;Which of these is the coldest continent?;Australia,Antarctica,Asia,Europe;Antarctica
+Beginner;What is the name of the ocean on the west coast of the United States?;Atlantic Ocean,Pacific Ocean,Indian Ocean,Arctic Ocean;Pacific Ocean
+Beginner;On which continent would you find the Sahara Desert?;Africa,Asia,Europe,Australia;Africa
+Beginner;Which continent is home to the Taj Mahal in India?;Asia,Africa,Europe,North America;Asia
+Beginner;Which ocean has the coldest water?;Pacific Ocean,Indian Ocean,Atlantic Ocean,Arctic Ocean;Arctic Ocean
+Beginner;Which of these is not an ocean?;Atlantic Ocean,Pacific Ocean,Antarctica Ocean,Indian Ocean;Antarctica Ocean
+Beginner;What is the continent that is the home of the kangaroo?;Australia,Asia,Africa,Europe;Australia
+Beginner;Which continent is known for having a very high population density?;Asia,Africa,North America,South America;Asia
+Beginner;What is the name of the largest ocean on Earth?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean;Pacific Ocean
+Beginner;Which continent is home to the countries of Brazil and Argentina?;Asia,Africa,South America,Europe;South America
+Beginner;Which of these continents is entirely located in the Southern Hemisphere?;Africa,Australia,Asia,Europe;Australia
+Beginner;On which continent is the country of Russia located?;Europe,Asia,Both Europe and Asia,Neither;Both Europe and Asia
+Advanced;The invention of the telephone is often credited to Alexander Graham Bell, but which lesser-known inventor was engaged in a legal dispute with him over the patent?;Elisha Gray,Antonio Meucci,Thomas Edison,Nikola Tesla;Elisha Gray
+Advanced;Which inventor is credited with developing the first commercially viable electric light bulb with a carbon filament?;Thomas Edison,Nikola Tesla,Joseph Swan,Humphry Davy;Thomas Edison
+Advanced;The invention of the modern zipper is attributed to Gideon Sundback, but his design was an improvement on an earlier, less successful model by which inventor?;Whitcomb Judson,Elias Howe,Isaac Singer,Gideon Sundback;Whitcomb Judson
+Advanced;James Watt's major improvement to the steam engine, patented in 1769, was the invention of which component that dramatically increased its efficiency?;Separate condenser,Flyball governor,Crankshaft,Rocker arm;Separate condenser
+Advanced;Which inventor received the patent for the first practical and commercially successful internal combustion engine fueled by gasoline?;Karl Benz,Nikolaus Otto,Rudolf Diesel,Henry Ford;Karl Benz
+Advanced;Before the moveable-type printing press, Johannes Gutenberg worked on an invention that helped produce what for religious pilgrims?;Metal pilgrim badges,Engraved crosses,Handwritten bibles,Glass rosaries;Metal pilgrim badges
+Advanced;Which physicist and inventor is credited with the invention of the first practical radio system, which he later sold to Marconi?;Nikola Tesla,James Clerk Maxwell,Heinrich Hertz,Guglielmo Marconi;Guglielmo Marconi
+Advanced;What was the key technological innovation of the Enigma machine, used by the Germans in WWII, that made it so difficult to break?;Rotor mechanism,Morse code encryption,Frequency hopping,Digital ciphering;Rotor mechanism
+Advanced;Which inventor is credited with the invention of the first long-lasting, practical, and affordable rubber, through the process of vulcanization?;Charles Goodyear,Thomas Hancock,Frank Seiberling,John Dunlop;Charles Goodyear
+Advanced;What was the main purpose of the first computer, the Colossus, invented by Alan Turing and his team during WWII?;To calculate missile trajectories,To break German encryption codes,To design military aircraft,To manage logistics;To break German encryption codes
+Advanced;Which invention by Eli Whitney, patented in 1794, had the unintended consequence of entrenching slavery in the American South?;Cotton gin,Steamboat,Plow,Telegraph;Cotton gin
+Advanced;The invention of dynamite is credited to Alfred Nobel, but what was the safer, more stable compound he invented it from?;Nitroglycerin,Toluene,Ammonium nitrate,Picric acid;Nitroglycerin
+Advanced;Which American inventor is credited with the invention of the first practical electric elevator brake, making them safer for use in skyscrapers?;Alexander Miles,Elisha Otis,John Roebling,Frank Lloyd Wright;Alexander Miles
+Advanced;What was the primary function of the first digital computer, the Atanasoff-Berry Computer (ABC)?;Solving linear equations,Cracking codes,Weather forecasting,Tracking satellites;Solving linear equations
+Advanced;Which scientist and inventor is known for inventing the Geiger counter, a device used to measure radioactivity?;Albert Einstein,Marie Curie,Wilhelm Roentgen,Hans Geiger;Hans Geiger
+Advanced;Which inventor is credited with the invention of the first successful photograph, in a process he called heliography?;Louis Daguerre,Nicéphore Niépce,William Fox Talbot,George Eastman;Nicéphore Niépce
+Advanced;The invention of the transistor at Bell Labs in 1947 is credited to three inventors. Which of these was NOT one of them?;John Bardeen,Walter Brattain,William Shockley,Robert Noyce;Robert Noyce
+Advanced;Which inventor is known for his work in inventing the first successful long-distance AC power transmission system, in competition with Edison's DC system?;Nikola Tesla,George Westinghouse,Thomas Edison,Alexander Graham Bell;George Westinghouse
+Advanced;The invention of the first practical television system is widely credited to which Scottish inventor?;John Logie Baird,Philo Farnsworth,Vladimir Zworykin,Charles Jenkins;John Logie Baird
+Advanced;Which 19th-century inventor patented the first machine that could both sew and cut buttonholes?;Elias Howe,Isaac Singer,James Edward Allen Gibbs,Benjamin Franklin;James Edward Allen Gibbs
+Advanced;Which inventor is credited with the invention of the first successful vaccine, used to prevent smallpox?;Louis Pasteur,Edward Jenner,Jonas Salk,Alexander Fleming;Edward Jenner
+Advanced;What was the first product of the Polaroid Corporation, known for instant photography, invented by Edwin Land?;The Polaroid Land Camera,The Polaroid sunglasses,The Polaroid instant film,The Polaroid projector;The Polaroid sunglasses
+Advanced;Which invention by Leonardo da Vinci, though never built in his lifetime, laid the groundwork for modern helicopters?;Ornithopter,Aerial Screw,Parachute,Glider;Aerial Screw
+Advanced;The first successful artificial heart, the Jarvik-7, was invented by which physician-scientist?;Robert Jarvik,William DeVries,Christiaan Barnard,Michael DeBakey;Robert Jarvik
+Advanced;Which inventor is credited with the first practical and commercially successful automobile, in 1886?;Karl Benz,Gottlieb Daimler,Henry Ford,Nikolaus Otto;Karl Benz
+Advanced;Which inventor is known for the first practical pneumatic rubber tire for bicycles?;John Boyd Dunlop,Charles Goodyear,Édouard Michelin,André Michelin;John Boyd Dunlop
+Advanced;What was the primary function of the first successful mass-produced computer, the IBM 650?;Data processing and accounting,Weather forecasting,Scientific calculations,Code breaking;Data processing and accounting
+Advanced;Which scientist is credited with the invention of the polio vaccine?;Albert Sabin,Jonas Salk,Louis Pasteur,Robert Koch;Jonas Salk
+Advanced;The invention of the first successful vaccine for rabies is credited to which French scientist?;Louis Pasteur,Robert Koch,Edward Jenner,Jonas Salk;Louis Pasteur
+Advanced;Which inventor is known for developing the first successful helicopter that could be controlled in flight?;Igor Sikorsky,Leonardo da Vinci,Paul Cornu,Étienne Oehmichen;Igor Sikorsky
+Advanced;Which inventor is credited with the first practical commercial use of the internal combustion engine in a car?;Karl Benz,Gottlieb Daimler,Henry Ford,Rudolf Diesel;Karl Benz
+Advanced;The invention of the first electronic television was developed independently by which two inventors?;Philo Farnsworth and Vladimir Zworykin,John Logie Baird and Charles Jenkins,Philo Farnsworth and John Logie Baird,Vladimir Zworykin and Charles Jenkins;Philo Farnsworth and Vladimir Zworykin
+Advanced;Which American inventor is credited with developing the first successful commercial telegraph system?;Samuel Morse,Alexander Graham Bell,Thomas Edison,Guglielmo Marconi;Samuel Morse
+Advanced;Which inventor and entrepreneur is credited with developing the first commercially viable digital camera?;Steve Sasson,George Eastman,Edwin Land,Steven Jobs;Steve Sasson
+Advanced;What was the key invention that allowed for the development of mass-produced, affordable automobiles?;The assembly line,The gasoline engine,The rubber tire,The electric starter;The assembly line
+Advanced;Which inventor is known for developing the first widely used contraceptive pill?;Gregory Pincus,Carl Djerassi,John Rock,Margaret Sanger;Carl Djerassi
+Advanced;Which inventor is credited with the invention of the first successful AC motor and a polyphase system for AC power transmission?;Thomas Edison,George Westinghouse,Nikola Tesla,Alexander Graham Bell;Nikola Tesla
+Advanced;The invention of the first successful vaccination against smallpox is credited to which English physician?;Edward Jenner,Jonas Salk,Louis Pasteur,Robert Koch;Edward Jenner
+Advanced;What was the key invention that led to the development of the internet?;The ARPANET,The World Wide Web,Packet switching,Hypertext;Packet switching
+Advanced;Which inventor is known for his work in developing the first successful incandescent light bulb with a tungsten filament?;Thomas Edison,Joseph Swan,Irving Langmuir,Lewis Howard Latimer;Irving Langmuir
+Advanced;Which invention by Charles Babbage, a mechanical computer, is considered the precursor to modern computers?;The Difference Engine,The Analytical Engine,The Turing Machine,The Colossus;The Analytical Engine
+Advanced;Which inventor is credited with the invention of the first successful liquid-fuel rocket?;Robert Goddard,Wernher von Braun,Konstantin Tsiolkovsky,Hermann Oberth;Robert Goddard
+Advanced;What was the primary function of the first microchip, invented by Jack Kilby and Robert Noyce?;To process data,To store memory,To integrate multiple components,To power a computer;To integrate multiple components
+Advanced;Which inventor is known for developing the first successful commercial helicopter?;Igor Sikorsky,Leonardo da Vinci,Paul Cornu,Étienne Oehmichen;Igor Sikorsky
+Advanced;Which of these inventions by Benjamin Franklin is still widely used today?;The Franklin stove,Bifocal glasses,The lightning rod,The odometer;Bifocal glasses
+Advanced;What was the key invention that allowed for the mass production of books and the spread of knowledge during the Renaissance?;The printing press,The telegraph,The telephone,The compass;The printing press
+Advanced;Which inventor is credited with the invention of the first successful photograph?;Nicéphore Niépce,Louis Daguerre,William Fox Talbot,George Eastman;Nicéphore Niépce
+Advanced;What was the key innovation of the first successful long-distance telegraph?;Morse code,The telegraph key,Electromagnetic induction,The telegraph wire;Morse code
+Advanced;Which inventor is known for his invention of the first commercially successful phonograph?;Thomas Edison,Alexander Graham Bell,Nikola Tesla,Guglielmo Marconi;Thomas Edison
+Advanced;The invention of the first successful sewing machine is credited to which inventor?;Elias Howe,Isaac Singer,Walter Hunt,Barthélemy Thimonnier;Elias Howe
+difficulty;question;options;answer
+Advanced;Which of these landmarks, known for its distinctive wind-screen facade, is also referred to as the "Palace of Winds"?;Hawa Mahal,Amber Fort,City Palace,Jal Mahal;Hawa Mahal
+Advanced;The Sun Temple at Konark, a UNESCO World Heritage Site, is designed in the shape of a massive chariot with 12 pairs of exquisitely carved stone wheels. Which deity is it dedicated to?;Lord Vishnu,Lord Shiva,Lord Surya,Lord Brahma;Lord Surya
+Advanced;The ancient university of Nalanda, once a global center of learning, is located in which Indian state?;Bihar,Uttar Pradesh,West Bengal,Odisha;Bihar
+Advanced;Built to commemorate the visit of King George V and Queen Mary to Mumbai, this iconic archway is located on the waterfront of the city. What is its name?;India Gate,Gateway of India,Victoria Memorial,Charminar;Gateway of India
+Advanced;The rock-cut caves of Ajanta and Ellora, famous for their ancient murals and sculptures, are located in which district of Maharashtra?;Pune,Mumbai,Aurangabad,Nagpur;Aurangabad
+Advanced;The Gol Gumbaz, the tomb of Mohammed Adil Shah, is famous for its whispering gallery. In which city is it located?;Hyderabad,Bijapur,Mysore,Bengaluru;Bijapur
+Advanced;Which famous monument, a symbol of Mughal architecture, was built by Emperor Akbar and served as the capital of his empire for 14 years?;Humayun's Tomb,Red Fort,Qutub Minar,Fatehpur Sikri;Fatehpur Sikri
+Advanced;The Qutub Minar, a minaret and a UNESCO World Heritage Site, was started by Qutb-ud-din Aibak and later completed by which ruler?;Alauddin Khilji,Iltutmish,Firoz Shah Tughlaq,Sher Shah Suri;Iltutmish
+Advanced;The world's tallest statue, the Statue of Unity, is dedicated to which Indian freedom fighter and statesman?;Mahatma Gandhi,Jawaharlal Nehru,Sardar Vallabhbhai Patel,Subhas Chandra Bose;Sardar Vallabhbhai Patel
+Advanced;Built in the 17th century by Shah Jahan as a memorial for his wife Mumtaz Mahal, the Taj Mahal is located on the bank of which river?;Yamuna,Ganges,Brahmaputra,Godavari;Yamuna
+Advanced;The Brihadeeswarar Temple in Thanjavur, a UNESCO World Heritage Site, is dedicated to which Hindu deity?;Lord Vishnu,Lord Shiva,Lord Brahma,Lord Ganesha;Lord Shiva
+Advanced;The Charminar, a mosque and monument, was built by Sultan Muhammad Quli Qutb Shah to commemorate the end of a deadly plague. In which city is it located?;Delhi,Hyderabad,Lucknow,Agra;Hyderabad
+Advanced;Which monument in Jaipur is known for its intricate lattice work on its windows, designed to allow royal women to observe street festivals without being seen?;Hawa Mahal,City Palace,Jal Mahal,Amer Fort;Hawa Mahal
+Advanced;The Red Fort, built by Mughal Emperor Shah Jahan, served as the main residence of the Mughal emperors for nearly 200 years. In which city is it located?;Agra,Jaipur,Delhi,Lucknow;Delhi
+Advanced;Known for its Dravidian architecture and magnificent sculptures, the Group of Monuments at Mahabalipuram is located on the Coromandel Coast of which Indian state?;Kerala,Tamil Nadu,Karnataka,Andhra Pradesh;Tamil Nadu
+Advanced;The Gateway of India was designed by which British architect?;George Wittet,Edwin Lutyens,Robert Tor Russell,Walter George;George Wittet
+Advanced;The Elephanta Caves, located on an island in the Mumbai Harbour, are famous for their rock-cut stone sculptures dedicated to which deity?;Lord Vishnu,Lord Shiva,Lord Brahma,Lord Ganesha;Lord Shiva
+Advanced;The ancient city of Hampi, a UNESCO World Heritage Site, served as the capital of which empire?;Gupta Empire,Mauryan Empire,Vijayanagara Empire,Mughal Empire;Vijayanagara Empire
+Advanced;What is the name of the famous monument in Kolkata, made of white Makrana marble, that was built to commemorate Queen Victoria?;Victoria Memorial,Indian Museum,Howrah Bridge,Shaheed Minar;Victoria Memorial
+Advanced;The Lotus Temple, known for its flower-like shape, is a House of Worship of which religion?;Hinduism,Buddhism,Jainism,Baháʼí Faith;Baháʼí Faith
+Advanced;The city of Fatehpur Sikri was abandoned due to the scarcity of which resource?;Stone,Food,Water,Wood;Water
+Advanced;The Mehrangarh Fort, one of the largest forts in India, is located in which city of Rajasthan?;Jaipur,Udaipur,Jodhpur,Jaisalmer;Jodhpur
+Advanced;What is the name of the astronomical observatory in Delhi, built by Maharaja Jai Singh II, that consists of 13 architectural astronomy instruments?;Qutub Minar,Jantar Mantar,Red Fort,India Gate;Jantar Mantar
+Advanced;The Golden Temple, or Sri Harmandir Sahib, the holiest shrine of Sikhism, is located in which city?;Patna Sahib,Anandpur Sahib,Amritsar,Nanded;Amritsar
+Advanced;Which of these famous monuments, located in Agra, is often called a "mini Taj" due to its similar architectural style and use of white marble?;Agra Fort,Itmad-ud-Daulah's Tomb,Akbar's Tomb,Jama Masjid;Itmad-ud-Daulah's Tomb
+Advanced;The Umaid Bhawan Palace, a stunning blend of Rajput, European, and Art Deco architecture, is located in which city?;Jaipur,Udaipur,Jodhpur,Jaisalmer;Jodhpur
+Advanced;The Buddhist stupa at Sanchi, a UNESCO World Heritage Site, was originally commissioned by which Indian emperor?;Ashoka,Chandragupta Maurya,Samudragupta,Harsha;Ashoka
+Advanced;The Konark Sun Temple is famous for its intricate carvings of what on its wheels?;Mythical creatures,Celestial beings,Animals,Daily life scenes;Daily life scenes
+Advanced;Which monument was built in the early 20th century to mark the visit of the then-British monarch and is located in the Apollo Bunder area of Mumbai?;India Gate,Gateway of India,Victoria Terminus,Elephanta Caves;Gateway of India
+Advanced;The Jagannath Temple in Puri, Odisha, is dedicated to which form of Lord Krishna?;Lord Rama,Lord Jagannath,Lord Shiva,Lord Ganesha;Lord Jagannath
+Advanced;The Chittorgarh Fort, the largest fort complex in India, is primarily known for its association with which legendary queen?;Rani Padmavati,Rani Lakshmi Bai,Rani Durgavati,Rani Ahilyabai Holkar;Rani Padmavati
+Advanced;Which UNESCO World Heritage Site in India is a collection of 34 caves, with Hindu, Buddhist, and Jain rock-cut temples and monasteries?;Ajanta Caves,Elephanta Caves,Ellora Caves,Karla Caves;Ellora Caves
+Advanced;Built in the memory of his father Humayun, this tomb in Delhi is often considered the first garden-tomb on the Indian subcontinent. Who commissioned its construction?;Akbar,Hamida Banu Begum,Jahangir,Shah Jahan;Hamida Banu Begum
+Advanced;Which ancient site in Gujarat, a UNESCO World Heritage Site, is known for its well-preserved remains of a Harappan city and is believed to have been a major port?;Lothal,Dholavira,Kalibangan,Mohenjo-daro;Dholavira
+Advanced;What is the name of the white marble palace located in the middle of Lake Pichola in Udaipur, which has been converted into a luxury hotel?;Lake Palace,City Palace,Jag Mandir,Fateh Prakash Palace;Lake Palace
+Advanced;The Agra Fort, a UNESCO World Heritage Site, was originally a brick fort held by the Chauhan Rajputs. It was later rebuilt with red sandstone by which Mughal Emperor?;Akbar,Jahangir,Shah Jahan,Aurangzeb;Akbar
+Advanced;Known for its stunning gardens, intricate carvings, and the famous 'Sheesh Mahal' (Hall of Mirrors), the Amer Fort is located near which major city?;Udaipur,Jaipur,Jodhpur,Jaisalmer;Jaipur
+Advanced;The Victoria Memorial in Kolkata was designed by which architect?;William Emerson,Edwin Lutyens,Vincent J. Esch,Robert Fellowes Chisholm;Vincent J. Esch
+Advanced;Which monument in Delhi, a UNESCO World Heritage Site, is a 73-meter tall minaret made of red sandstone and marble, and is surrounded by several other historical structures?;Humayun's Tomb,Qutub Minar,Red Fort,India Gate;Qutub Minar
+Advanced;The Mysore Palace, also known as the Amba Vilas Palace, is the official residence and seat of the Wodeyars. In which Indian state is it located?;Andhra Pradesh,Tamil Nadu,Karnataka,Kerala;Karnataka
+Advanced;Which ancient rock-cut cave complex in Maharashtra, a UNESCO World Heritage Site, is a series of 30 Buddhist caves dating from the 2nd century BCE to about 480 CE?;Ajanta Caves,Ellora Caves,Elephanta Caves,Karla Caves;Ajanta Caves
+Advanced;The Hawa Mahal's unique facade with its numerous windows was designed to allow which natural element to pass through and cool the palace?;Water,Sunlight,Wind,Rain;Wind
+Advanced;Which famous monument, built by the British, was the starting point of the Indian Railways in Mumbai and is known for its Gothic and Victorian architecture?;Gateway of India,Chhatrapati Shivaji Maharaj Terminus,Victoria Memorial,National Gallery of Modern Art;Chhatrapati Shivaji Maharaj Terminus
+Advanced;The Konark Sun Temple is often referred to by which name due to its dark, sun-weathered stone?;Black Pagoda,White Pagoda,Red Fort,Blue Pagoda;Black Pagoda
+Advanced;Which city is home to the stunning Akshardham Temple, a sprawling complex dedicated to Swaminarayan that was inaugurated in 2005?;Delhi,Ahmedabad,Gandhinagar,Pune;Delhi
+Advanced;The Jama Masjid in Delhi, one of the largest mosques in India, was built by which Mughal Emperor?;Akbar,Jahangir,Shah Jahan,Aurangzeb;Shah Jahan
+Advanced;What is the name of the tomb in Delhi that is considered a precursor to the Taj Mahal due to its similar architectural style and use of red sandstone and white marble?;Humayun's Tomb,Safdarjung's Tomb,Sikandra,Tomb of Itmad-ud-Daulah;Humayun's Tomb
+Advanced;The ruins of the ancient city of Nalanda, once a great Buddhist monastic center, are located near which modern city in Bihar?;Patna,Gaya,Rajgir,Bodh Gaya;Rajgir
+Advanced;The iconic India Gate, a war memorial in Delhi, was built to commemorate the Indian soldiers who died in which conflict?;World War I,World War II,Indo-Pak War of 1971,Kargil War;World War I
+Advanced;What is the name of the mausoleum located in Aurangabad, Maharashtra, that is often called the "poor man's Taj Mahal" due to its striking resemblance?;Bibi Ka Maqbara,Tomb of Rabia-ud-Daurani,Aurangzeb's Tomb,Panchakki;Bibi Ka Maqbara
+Beginner;What is the name of our planet?;Mars,Earth,Venus,Jupiter;Earth
+Beginner;What is the largest organ in the human body?;Heart,Brain,Skin,Lungs;Skin
+Beginner;What gas do plants breathe in?;Oxygen,Carbon Dioxide,Nitrogen,Hydrogen;Carbon Dioxide
+Beginner;What force pulls things down to the Earth?;Friction,Gravity,Magnetism,Thrust;Gravity
+Beginner;What is the main source of light for Earth?;The Moon,The Sun,Stars,A campfire;The Sun
+Beginner;What do you call a scientist who studies living things?;Astronomer,Biologist,Geologist,Chemist;Biologist
+Beginner;What is the state of water when it is frozen?;Liquid,Gas,Solid,Vapor;Solid
+Beginner;What is the name for the process where a caterpillar turns into a butterfly?;Metamorphosis,Photosynthesis,Germination,Evaporation;Metamorphosis
+Beginner;What is the center of an atom called?;Proton,Neutron,Nucleus,Electron;Nucleus
+Beginner;What is the process that plants use to make their own food?;Digestion,Photosynthesis,Respiration,Circulation;Photosynthesis
+Beginner;What do you call the a small particle of matter that is the building block of everything?;Molecule,Atom,Cell,Proton;Atom
+Beginner;What is the process of water vapor turning into liquid water called?;Evaporation,Condensation,Precipitation,Melting;Condensation
+Beginner;What is the name of the gas that we breathe in?;Nitrogen,Carbon Dioxide,Oxygen,Hydrogen;Oxygen
+Beginner;What is the hottest planet in our solar system?;Mercury,Venus,Earth,Mars;Venus
+Beginner;What is a group of stars called?;A galaxy,A planet,A comet,An asteroid;A galaxy
+Beginner;What is the name of the instrument used to see very small things?;Telescope,Microscope,Binoculars,Magnifying glass;Microscope
+Beginner;What is the name for the liquid part of our blood?;Plasma,Red blood cells,White blood cells,Platelets;Plasma
+Beginner;What part of a plant takes in water and nutrients from the soil?;Leaves,Stem,Flowers,Roots;Roots
+Beginner;What is a solid that can be dissolved in a liquid called?;A solution,A solute,A solvent,A mixture;A solute
+Beginner;What is the name for a tool used to measure temperature?;Ruler,Scale,Thermometer,Clock;Thermometer
+Beginner;What is the biggest planet in our solar system?;Earth,Mars,Jupiter,Saturn;Jupiter
+Beginner;What is the process where a liquid turns into a gas?;Melting,Freezing,Evaporation,Condensation;Evaporation
+Beginner;What is the name of the bone in your head that protects your brain?;Spine,Skull,Ribs,Pelvis;Skull
+Beginner;What is the part of the plant that makes seeds?;Flower,Stem,Leaf,Root;Flower
+Beginner;What is the name of the energy that comes from the sun?;Solar energy,Wind energy,Geothermal energy,Nuclear energy;Solar energy
+Beginner;What is the property of an object that makes it hard to change its motion?;Mass,Volume,Density,Temperature;Mass
+Beginner;What is the name of the protective layer around the Earth?;Crust,Mantle,Core,Atmosphere;Atmosphere
+Beginner;What is the name of the force that objects use to attract or repel each other?;Friction,Gravity,Magnetism,Air pressure;Magnetism
+Beginner;What is the name for the measure of how hot or cold something is?;Weight,Mass,Density,Temperature;Temperature
+Beginner;What is the name of the scientist who studies the weather?;Geologist,Biologist,Meteorologist,Astronomer;Meteorologist
+Beginner;What are the three states of matter?;Solid, liquid, and gas;Hot, warm, and cold;Heavy, light, and soft;Big, medium, and small;Solid, liquid, and gas
+Beginner;What is the process of a seed growing into a plant?;Germination,Pollination,Photosynthesis,Fermentation;Germination
+Beginner;What is the name of the tiny living things that can make you sick?;Viruses,Cells,Bacteria,Molecules;Bacteria
+Beginner;What is the name for the living parts of an ecosystem?;Biotic factors,Abiotic factors,Compounds,Elements;Biotic factors
+Beginner;What is the name of the gas that animals breathe out?;Oxygen,Carbon Dioxide,Nitrogen,Hydrogen;Carbon Dioxide
+Beginner;What part of the eye helps you see in color?;Lens,Pupil,Iris,Retina;Retina
+Beginner;What is the name for the different phases of the Moon?;Crescents,Tides,Eclipses,Orbits;Crescents
+Beginner;What do you call a group of animals of the same kind living together?;Herd,Flock,Pack,All of the above;All of the above
+Beginner;What is the process of a liquid turning into a solid?;Melting,Freezing,Evaporation,Condensation;Freezing
+Beginner;What is the name for the long, thin body part that holds up a plant's leaves and flowers?;Stem,Root,Flower,Leaf;Stem
+Beginner;What is the name for the measure of the space an object takes up?;Mass,Volume,Density,Weight;Volume
+Beginner;What is the name of the force that makes it difficult for two things to slide past each other?;Gravity,Friction,Magnetism,Thrust;Friction
+Beginner;What is the name of the animal that eats only plants?;Carnivore,Herbivore,Omnivore,Insectivore;Herbivore
+Beginner;What is the name of the biggest star in our solar system?;The Moon,The Sun,Jupiter,Proxima Centauri;The Sun
+Beginner;What is the name of the process when a liquid turns into a gas and then back into a liquid in a cycle?;Water cycle,Rock cycle,Food chain,Energy cycle;Water cycle
+Beginner;What is the name of the tiny units that make up all living things?;Atoms,Molecules,Cells,Elements;Cells
+Beginner;What is the name for the change of state from a solid directly to a gas without becoming a liquid?;Melting,Sublimation,Boiling,Freezing;Sublimation
+Beginner;What is the name for the tool that measures wind speed?;Barometer,Anemometer,Thermometer,Rain gauge;Anemometer
+Beginner;What is the name of the largest part of the human brain?;Cerebellum,Brainstem,Cerebrum,Spinal cord;Cerebrum
+Beginner;What is the name of the force that keeps the planets in orbit around the Sun?;Friction,Gravity,Magnetism,Air resistance;Gravity
+Beginner;What are the three primary colors?;Red, Yellow, Blue, Green;Red, Yellow, Blue
+Beginner;Which color is NOT a primary color?;Red, Blue, Green, Yellow;Green
+Beginner;What two colors do you mix to make green?;Blue and Yellow,Red and Yellow,Red and Blue,Purple and Orange;Blue and Yellow
+Beginner;What two colors do you mix to make orange?;Blue and Red,Blue and Yellow,Red and Green,Red and Yellow;Red and Yellow
+Beginner;What two colors do you mix to make purple?;Red and Yellow,Red and Blue,Blue and Yellow,Green and Red;Red and Blue
+Beginner;Which color is at the very top of a rainbow?;Orange,Yellow,Red,Blue;Red
+Beginner;How many colors are in a typical rainbow?;Four,Five,Six,Seven;Seven
+Beginner;Is black a primary color?;Yes,No,Maybe,Sometimes;No
+Beginner;Is white a primary color?;Yes,No,Maybe,Sometimes;No
+Beginner;What color do you get when you mix all the primary colors?;White,Black,Brown,Gray;Brown
+Beginner;What is the second color from the top in a rainbow?;Blue,Green,Orange,Yellow;Orange
+Beginner;Which color is between green and purple in a rainbow?;Blue,Yellow,Red,Orange;Blue
+Beginner;What color is the sky on a sunny day?;Yellow,Red,Blue,Green;Blue
+Beginner;What color is a banana?;Red,Yellow,Blue,Green;Yellow
+Beginner;What color is an apple?;Red,Yellow,Blue,Green;Red
+Beginner;What color do you get when you mix blue and red?;Green,Purple,Orange,Brown;Purple
+Beginner;What color do you get when you mix yellow and blue?;Red,Orange,Green,Purple;Green
+Beginner;What is the color of a school bus?;Red,Blue,Yellow,Green;Yellow
+Beginner;Which color is at the bottom of a rainbow?;Red,Violet,Green,Orange;Violet
+Beginner;What is the name for the colors of the rainbow?;ROY G. BIV,J. K. ROWLING,SALLY RIDE,BILL GATES;ROY G. BIV
+Beginner;What color is grass?;Red,Yellow,Blue,Green;Green
+Beginner;What color is a lemon?;Red,Yellow,Blue,Green;Yellow
+Beginner;What color is a blueberry?;Red,Yellow,Blue,Purple;Blue
+Beginner;What is the last color in the rainbow?;Red,Yellow,Orange,Violet;Violet
+Beginner;How can you remember the order of rainbow colors?;ROY G. BIV,H. I. J. K. L.,A. B. C. D. E.,1, 2, 3, 4, 5, 6, 7;ROY G. BIV
+Beginner;What color is the sun on a hot day?;Yellow,Blue,Green,Purple;Yellow
+Beginner;What color are the leaves on most trees in summer?;Blue,Green,Yellow,Brown;Green
+Beginner;What color is a fire truck?;Red,Blue,Yellow,Green;Red
+Beginner;Is orange a primary color?;Yes,No,Maybe,Sometimes;No
+Beginner;Is green a primary color?;Yes,No,Maybe,Sometimes;No
+Beginner;What color is a plum?;Red,Yellow,Blue,Purple;Purple
+Beginner;What color is the sea?;Blue,Green,Yellow,Red;Blue
+Beginner;What is the first color in the rainbow?;Orange,Yellow,Red,Green;Red
+Beginner;Which primary color is in the middle of a rainbow?;Red,Yellow,Blue,None;None
+Beginner;What color do you get when you mix purple and yellow?;Brown,Red,Blue,Orange;Brown
+Beginner;What color is a watermelon on the inside?;Red,Blue,Green,Yellow;Red
+Beginner;What two colors do you mix to make brown?;Red and Blue,Black and White,Orange and Blue,Yellow and Green;Orange and Blue
+Beginner;What color is a carrot?;Red,Orange,Yellow,Green;Orange
+Beginner;What color is a strawberry?;Red,Orange,Yellow,Green;Red
+Beginner;Which color is a combination of two primary colors?;Red,Blue,Green,Yellow;Green
+Beginner;What color is a rose?;Red,Green,Yellow,Blue;Red
+Beginner;Is indigo a color in the rainbow?;Yes,No,Maybe,Sometimes;Yes
+Beginner;Which color in the rainbow is closest to red?;Blue,Orange,Yellow,Green;Orange
+Beginner;Which primary color is not used to make green?;Red,Blue,Yellow,None;Red
+Beginner;The third color in the rainbow is...?;Green,Yellow,Orange,Blue;Yellow
+Beginner;What color is a school bus?;Red,Blue,Yellow,Green;Yellow
+Beginner;What color do you get when you mix red and white?;Pink,Black,Gray,Brown;Pink
+Beginner;What is the fifth color of the rainbow, after green?;Yellow,Orange,Blue,Violet;Blue
+Beginner;Mixing red, yellow, and blue creates what neutral color?;White,Black,Brown,Gray;Brown
+Beginner;The color you see when the sun sets can be...?;Blue,Purple,Orange,Green;Orange
+Beginner;What color is a ripe tomato?;Green,Yellow,Red,Blue;Red
+Beginner;What color is a sunflower?;Green,Yellow,Red,Blue;Yellow
+Beginner;Which color comes before blue in a rainbow?;Green,Yellow,Orange,Red;Green
+Beginner;What color do you get if you mix red and green?;Brown,Blue,Purple,Orange;Brown
+Beginner;Which color is NOT in the rainbow?;Pink,Orange,Yellow,Blue;Pink
+Beginner;What color are the leaves in the autumn?;Blue,Green,Yellow,Red;Yellow
+Beginner;Which color is after indigo in the rainbow?;Green,Blue,Violet,Red;Violet
+Beginner;What color is a fire hydrant?;Red,Yellow,Green,Blue;Red
+Beginner;How many days are in a week?;5,7,10,12;7
+Beginner;Which day comes after Monday?;Tuesday,Wednesday,Sunday,Friday;Tuesday
+Beginner;What day comes before Friday?;Monday,Thursday,Saturday,Sunday;Thursday
+Beginner;What is the first day of the week?;Tuesday,Monday,Sunday,Wednesday;Sunday
+Beginner;Which day is a weekend day?;Monday,Tuesday,Saturday,Wednesday;Saturday
+Beginner;How many months are in a year?;10,12,14,16;12
+Beginner;What is the first month of the year?;February,December,January,July;January
+Beginner;What month comes after July?;September,August,June,April;August
+Beginer;Which month has 28 or 29 days?;March,February,April,May;February
+Beginner;What month is Christmas in?;October,November,December,January;December
+Beginner;Which day is the middle of the week?;Monday,Wednesday,Friday,Sunday;Wednesday
+Beginner;What day do we usually have off from school?;Monday,Tuesday,Wednesday,Saturday;Saturday
+Beginner;What day comes before Sunday?;Monday,Friday,Saturday,Tuesday;Saturday
+Beginner;How many days are in a leap year?;365,366,350,300;366
+Beginner;Which month has the most days?;January,February,March,All have the same;January
+Beginner;Which day of the week starts with the letter 'T'?;Sunday,Monday,Tuesday,Wednesday;Tuesday
+Beginner;What do you use to brush your teeth?;Spoon,Toothbrush,Fork,Comb;Toothbrush
+Beginner;What do you use to dry your hands?;Towel,Plate,Socks,Spoon;Towel
+Beginner;What do you use to watch TV?;Remote control,Keys,Pencil,Fork;Remote control
+Beginner;What do you use to comb your hair?;Spoon,Comb,Keys,Glass;Comb
+Beginner;What do you use to sweep the floor?;Sponge,Broom,Towel,Mug;Broom
+Beginner;What do you sit on at the dinner table?;Bed,Chair,Couch,Carpet;Chair
+Beginner;What do you wear on your feet to go outside?;Gloves,Socks,Shoes,Hat;Shoes
+Beginner;What do you use to eat soup?;Spoon,Fork,Knife,Chopsticks;Spoon
+Beginner;What do you use to drink water?;Plate,Spoon,Glass,Fork;Glass
+Beginner;What do you put food in to keep it cold?;Microwave,Stove,Refrigerator,Oven;Refrigerator
+Beginner;What is used to wash your clothes?;Dishwasher,Washer,Refrigerator,Dryer;Washer
+Beginner;What do you use to turn on the lights?;A handle,A button,A switch,A lever;A switch
+Beginner;What do you use to open a door?;A button,A knob,A remote,A spoon;A knob
+Beginner;What do you use to tell the time on the wall?;A clock,A book,A key,A map;A clock
+Beginner;What do you use to write with on a piece of paper?;A spoon,A fork,A pencil,A shoe;A pencil
+Beginner;What do you use to dry wet dishes?;A towel,A sponge,A plate,A cup;A towel
+Beginner;What do you use to take a bath or shower in?;A sink,A toilet,A bathtub,A bed;A bathtub
+Beginner;What do you use to clean a mirror?;A towel,A broom,A sponge,A rake;A sponge
+Beginner;What do you use to vacuum the carpet?;A broom,A mop,A vacuum cleaner,A sponge;A vacuum cleaner
+Beginner;What do you use to cook food on?;A bed,A chair,A stove,A couch;A stove
+Beginner;What do you use to wash dishes in the kitchen sink?;A towel,A fork,A sponge,A pencil;A sponge
+Beginner;What do you use to sleep on?;A chair,A bed,A couch,A table;A bed
+Beginner;What do you use to eat your food on?;A cup,A plate,A shoe,A hat;A plate
+Beginner;What do you use to sit on in the living room?;A bed,A chair,A couch,A toilet;A couch
+Beginner;What do you use to cut food with?;A spoon,A fork,A knife,A pencil;A knife
+Beginner;What do you use to see yourself in?;A mirror,A book,A chair,A spoon;A mirror
+Beginner;What do you use to heat up food quickly?;A microwave,A refrigerator,A stove,A TV;A microwave
+Beginner;What is used to keep drinks cold?;A refrigerator,A freezer,An oven,A lamp;A refrigerator
+Beginner;What do you use to open a can of soup?;A can opener,A knife,A spoon,A fork;A can opener
+Beginner;What do you use to make toast?;A toaster,A stove,A blender,A microwave;A toaster
+Beginner;What do you use to cut paper?;A knife,Scissors,A spoon,A pencil;Scissors
+Beginner;What do you use to put out a small fire?;A broom,A bucket,A fire extinguisher,A pillow;A fire extinguisher
+Beginner;What do you use to take out the garbage?;A trash can,A bucket,A bowl,A plate;A trash can
+Beginner;What do you use to protect your hands when cleaning?;Gloves,Socks,Shoes,Hats;Gloves
+Beginner;What do you use to measure ingredients for a recipe?;A ruler,A tape measure,Measuring cups,A clock;Measuring cups
+Beginner;What do you use to tell the weather?;A clock,A thermometer,A book,A remote;A thermometer
+Beginner;What do you use to water plants?;A broom,A bucket,A watering can,A spoon;A watering can
+Beginner;What do you use to fix a broken nail?;A hammer,A spoon,A pencil,A key;A hammer
+Beginer;What do you use to clean windows?;A broom,A rag,A vacuum,A clock;A rag
+Beginner;What do you use to make a smoothie?;A toaster,A blender,An oven,A stove;A blender
+Beginner;What do you use to turn on the water in the sink?;A knob,A button,A switch,A handle;A handle
+Beginner;What is used to keep food fresh?;A refrigerator,A microwave,A toaster,A broom;A refrigerator
+Beginner;What do you use to sit on outside?;A chair,A couch,A hammock,A bed;A hammock
+Beginner;What do you use to protect yourself from rain?;A hat,An umbrella,A spoon,A shoe;An umbrella
+Beginner;What do you use to wash your hair?;Shampoo,Soap,Lotion,Toothpaste;Shampoo
+Beginner;What do you use to put on your clothes?;A hanger,A fork,A towel,A glass;A hanger
+Beginner;What is used to boil water?;A frying pan,A teapot,A plate,A bowl;A teapot
+Beginner;What do you use to open a door?;A key,A broom,A hat,A glove;A key
+Beginner;What do you use to organize your clothes?;A chair,A dresser,A table,A bed;A dresser
+Beginner;What do you use to keep things from getting dusty?;A towel,A broom,A dustpan,A duster;A duster
+Advanced;In basketball, what is the shot clock violation time limit in the NBA?;24 seconds,30 seconds,15 seconds,35 seconds;24 seconds
+Advanced;In soccer, what is the penalty for a professional player who receives two yellow cards in a single game?;A one-game suspension,An automatic red card and removal from the game,A fine,A public warning;An automatic red card and removal from the game
+Advanced;In American football, how many points is a touchdown worth before the extra point or two-point conversion?;6 points,7 points,3 points,2 points;6 points
+Advanced;In baseball, what is a "balk"?;A home run,A hit that goes foul,An illegal act by the pitcher,A stolen base;An illegal act by the pitcher
+Advanced;In tennis, what is the scoring term for 40-40?;Advantage,Deuce,Love,Match Point;Deuce
+Advanced;What is the maximum number of clubs a golfer is allowed to carry in their bag during a round?;10,12,14,16;14
+Advanced;In boxing, how long is a typical round in a professional fight?;2 minutes,3 minutes,4 minutes,5 minutes;3 minutes
+Advanced;In volleyball, what is the maximum number of times a team can hit the ball to return it over the net?;2,3,4,5;3
+Advanced;In ice hockey, what is the term for a period of time when a team has to play with fewer players due to a penalty?;Power play,Penalty kill,Short-handed,Timeout;Short-handed
+Advanced;In cricket, what is the term for a batsman scoring 100 runs in a single inning?;Century,Half-century,Double hundred,Hat-trick;Century
+Advanced;In professional swimming, what stroke is not permitted to be swum in the individual medley?;Freestyle,Butterfly,Backstroke,Breaststroke;Freestyle
+Advanced;In track and field, what is a "false start"?;Starting before the gun,Starting too slow,Finishing too fast,Running in the wrong lane;Starting before the gun
+Advanced;In gymnastics, what is the score called that represents the final total including deductions?;Execution score,Difficulty score,Final score,All-around score;Final score
+Advanced;In rugby, what is the term for when a player passes the ball forward to a teammate?;Knock-on,Offside,Forward pass,Scrum;Forward pass
+Advanced;In bowling, what is it called when a player knocks down all the pins on their second ball?;A strike,A spare,A turkey,A split;A spare
+Advanced;In fencing, what is the name of the light, flexible sword with a small guard?;Foil,Épée,Sabre,Rapier;Foil
+Advanced;In badminton, when a serve hits the net and lands in the correct service court, what is it called?;A fault,A let,A point,A smash;A let
+Advanced;In table tennis, how many points must a player win by to secure a game?;1,2,3,4;2
+Advanced;In water polo, how many players does a team have in the water at one time, including the goalie?;6,7,8,9;7
+Advanced;In horse racing, what is the term for a race without any obstacles?;Steeplechase,Hurdle race,Flat race,Endurance race;Flat race
+Advanced;In which sport does a player try to score by throwing a ball through a hoop on a moving horse?;Polo,Basketball,Horseball,Lacrosse;Horseball
+Advanced;In darts, what is the common score to start and end a professional match?;501,301,101,601;501
+Advanced;In handball, how many players are on the court for one team at a time?;5,6,7,8;7
+Advanced;In snooker, what is the maximum possible break in a single frame without a foul?;147,155,145,150;147
+Advanced;In curling, what is the term for a player who sweeps the ice in front of the stone?;Skip,Lead,Sweeper,Vice;Sweeper
+Advanced;In wrestling, what is it called when a wrestler pins their opponent's shoulders to the mat for a specified time?;A pinfall,A takedown,A submission,A reversal;A pinfall
+Advanced;In baseball, what is the term for a player who can pitch and also play a position in the field?;Designated hitter,Reliever,Two-way player,Closer;Two-way player
+Advanced;In which sport can a player be called for a "traveling" violation?;Basketball,Soccer,Volleyball,Hockey;Basketball
+Advanced;In golf, what is the term for a score of one stroke under par on a single hole?;Birdie,Eagle,Albatross,Par;Birdie
+Advanced;In polo, what is a "chukka"?;A type of mallet,A period of play,A penalty,A type of ball;A period of play
+Advanced;In fencing, what is an "off-target" hit?;A hit that doesn't count for a point,A hit to the opponent's arm,A hit that misses entirely,A hit to the mask;A hit that doesn't count for a point
+Advanced;In alpine skiing, what is the term for a gate that a skier must pass through?;A slalom,A flag,A turn,A marker;A flag
+Advanced;In which sport is the "T-shaped" stick used to hit a small ball?;Field hockey,Lacrosse,Cricket,Baseball;Field hockey
+Advanced;In horse racing, what is the weight carried by the horse and jockey called?;Handicap,Weight allowance,Load,Weight-for-age;Handicap
+Advanced;In American football, how many yards is a first down to gain?;5,10,15,20;10
+Advanced;In basketball, how many personal fouls can a player get before they are disqualified from the game?;4,5,6,7;6
+Advanced;In soccer, what is the penalty for a foul committed inside the penalty area?;A free kick,A corner kick,A penalty kick,A throw-in;A penalty kick
+Advanced;In volleyball, what is the primary purpose of a "libero" player?;To set the ball,To block shots,To serve the ball,To play defense and receive serves;To play defense and receive serves
+Advanced;In professional hockey, how many players (excluding the goalie) are on the ice for each team during regulation play?;4,5,6,7;5
+Advanced;In baseball, what is the term for a situation when a batter hits the ball and gets to second base safely?;Single,Double,Triple,Home Run;Double
+Advanced;In golf, what is the term for a score of two strokes under par on a single hole?;Birdie,Eagle,Albatross,Par;Eagle
+Advanced;In which sport do players use a "sabre" with a triangular blade?;Fencing,Judo,Karate,Wrestling;Fencing
+Advanced;In tennis, what is the term for a serve that lands in the opponent's service box without the opponent touching it?;An ace,A let,A fault,A double fault;An ace
+Advanced;In track and field, what event involves throwing a heavy metal ball?;Shot put,Discus,Javelin,Hammer throw;Shot put
+Advanced;In rugby, what is a "scrum"?;A way to restart play after a minor infringement,A type of tackle,A try,A kick;A way to restart play after a minor infringement
+Advanced;In badminton, what is it called when a player hits the shuttlecock high and deep into the opponent's court?;A drop shot,A smash,A clear,A net shot;A clear
+Advanced;In table tennis, what is the maximum number of serves a player can make in a row before their opponent gets to serve?;1,2,3,4;2
+Advanced;In handball, what is the "7-meter throw" similar to in soccer?;A penalty kick,A free kick,A corner kick,A throw-in;A penalty kick
+Advanced;In snooker, what is the term for a player scoring all 15 reds and 15 blacks?;Maximum break,Full house,Perfect game,Century break;Maximum break
+Advanced;In curling, what is the term for the circular target area?;The house,The button,The hack,The stone;The house
+Advanced;In gymnastics, what is the highest possible score a gymnast can achieve on a routine?;10.0,12.0,15.0,20.0;10.0
+Advanced;Who invented the telephone?;Alexander Graham Bell,Thomas Edison,Nikola Tesla,Marie Curie;Alexander Graham Bell
+Advanced;What famous invention is often credited to Thomas Edison?;The light bulb,The printing press,The radio,The automobile;The light bulb
+Advanced;Who invented the first practical flying machine, the airplane?;The Wright brothers,Henry Ford,Leonardo da Vinci,Galileo Galilei;The Wright brothers
+Advanced;The invention of the printing press is attributed to which person?;Johannes Gutenberg,Benjamin Franklin,Isaac Newton,Leonardo da Vinci;Johannes Gutenberg
+Advanced;Who invented the cotton gin?;Eli Whitney,Samuel Morse,James Watt,Alexander Fleming;Eli Whitney
+Advanced;What did Guglielmo Marconi invent?;The radio,The telegraph,The telephone,The television;The radio
+Advanced;What was Karl Benz's major invention?;The first practical automobile,The steam engine,The electric light,The camera;The first practical automobile
+Advanced;Who invented the mechanical television?;John Logie Baird,Philo Farnsworth,Thomas Edison,Alexander Graham Bell;John Logie Baird
+Advanced;Who invented the first commercially successful sewing machine?;Elias Howe,Isaac Singer,James Watt,George Westinghouse;Elias Howe
+Advanced;The discovery of penicillin is attributed to which person?;Alexander Fleming,Louis Pasteur,Joseph Lister,Edward Jenner;Alexander Fleming
+Advanced;Who is the inventor of the modern AC motor?;Nikola Tesla,Thomas Edison,James Watt,George Westinghouse;Nikola Tesla
+Advanced;What did George Westinghouse invent?;The air brake,The telephone,The light bulb,The radio;The air brake
+Advanced;Who invented the lightning rod and bifocal glasses?;Benjamin Franklin,Thomas Jefferson,George Washington,Abraham Lincoln;Benjamin Franklin
+Advanced;What invention is attributed to Samuel Morse?;The telegraph and Morse code,The telephone,The radio,The light bulb;The telegraph and Morse code
+Advanced;Who invented the steam engine?;James Watt,Nikola Tesla,Thomas Edison,Alexander Graham Bell;James Watt
+Advanced;Who is known for inventing the first successful liquid-fueled rocket?;Robert Goddard,Wernher von Braun,Isaac Newton,Johannes Kepler;Robert Goddard
+Advanced;Who invented the vaccine for polio?;Jonas Salk,Louis Pasteur,Alexander Fleming,Edward Jenner;Jonas Salk
+Advanced;What did Leonardo da Vinci design but never build?;A flying machine,A working clock,A telescope,A microscope;A flying machine
+Advanced;Who invented the World Wide Web?;Tim Berners-Lee,Bill Gates,Steve Jobs,Mark Zuckerberg;Tim Berners-Lee
+Advanced;What did Henry Ford pioneer in automobile manufacturing?;The assembly line,The electric car,The hybrid engine,The airbag;The assembly line
+Advanced;Who invented dynamite?;Alfred Nobel,Marie Curie,Albert Einstein,Isaac Newton;Alfred Nobel
+Advanced;What did the inventor of the phonograph, Thomas Edison, also invent?;The light bulb,The telephone,The steam engine,The radio;The light bulb
+Advanced;Who invented the first integrated circuit or microchip?;Jack Kilby,Robert Noyce,Gordon Moore,Steve Wozniak;Jack Kilby
+Advanced;Who is credited with inventing the modern refrigerator?;Carl von Linde,Thomas Edison,James Harrison,Alfred Nobel;Carl von Linde
+Advanced;What did James Harrison invent?;The first commercial ice-making machine,The light bulb,The radio,The telephone;The first commercial ice-making machine
+Advanced;Who invented the elevator with a safety brake?;Elisha Otis,Alexander Graham Bell,Thomas Edison,Nikola Tesla;Elisha Otis
+Advanced;What did the Wright brothers invent?;The airplane,The automobile,The light bulb,The radio;The airplane
+Advanced;What invention is credited to Louis Braille?;Braille for the blind,The telephone,The printing press,The cotton gin;Braille for the blind
+Advanced;Who invented the first successful gas-powered tractor?;John Froelich,Eli Whitney,James Watt,Henry Ford;John Froelich
+Advanced;What did Elias Howe invent?;The sewing machine,The telephone,The telegraph,The light bulb;The sewing machine
+Advanced;Who invented the first electronic television?;Philo Farnsworth,John Logie Baird,Thomas Edison,Nikola Tesla;Philo Farnsworth
+Advanced;What did Charles Babbage design that is considered a forerunner of the modern computer?;The Analytical Engine,The Difference Engine,The Turing Machine,The Enigma;The Analytical Engine
+Advanced;Who is known for inventing the first practical internal combustion engine?;Nikolaus Otto,Karl Benz,Rudolf Diesel,Henry Ford;Nikolaus Otto
+Advanced;What did Rudolf Diesel invent?;The diesel engine,The steam engine,The internal combustion engine,The gasoline engine;The diesel engine
+Advanced;Who invented the safety razor?;King C. Gillette,Elisha Otis,Alfred Nobel,Henry Ford;King C. Gillette
+Advanced;What invention is associated with Marie Curie?;Radium and Polonium,The telephone,The light bulb,The radio;Radium and Polonium
+Advanced;Who invented the first programmable computer?;Konrad Zuse,Charles Babbage,Alan Turing,John von Neumann;Konrad Zuse
+Advanced;What did George Eastman invent?;The Kodak camera,The telephone,The radio,The television;The Kodak camera
+Advanced;Who invented the modern zipper?;Whitcomb L. Judson,Gideon Sundback,Elias Howe,Isaac Singer;Gideon Sundback
+Advanced;What did Garrett Morgan invent?;The three-position traffic light,The light bulb,The telephone,The radio;The three-position traffic light
+Advanced;What did Joseph Nicéphore Niépce invent?;The first photograph,The light bulb,The telephone,The camera;The first photograph
+Advanced;Who invented the ballpoint pen?;László Bíró,Lewis Waterman,John Montagu,Alfred Nobel;László Bíró
+Advanced;What did John Pemberton invent?;Coca-Cola,Pepsi,Dr. Pepper,Fanta;Coca-Cola
+Advanced;Who invented the first working telephone?;Alexander Graham Bell,Thomas Edison,Nikola Tesla,Guglielmo Marconi;Alexander Graham Bell
+Advanced;Who is known for inventing the first working incandescent light bulb?;Thomas Edison,Nikola Tesla,Alexander Graham Bell,Benjamin Franklin;Thomas Edison
+Advanced;What did the Wright brothers invent that allowed for controlled flight?;The aileron,The rudder,The engine,The wings;The aileron
+Advanced;Who invented the first practical typewriter?;Christopher Latham Sholes,Thomas Edison,Alexander Graham Bell,Johannes Gutenberg;Christopher Latham Sholes
+Advanced;What did Louis Pasteur develop?;Pasteurization,Penicillin,The telephone,The light bulb;Pasteurization
+Advanced;Who invented the printing press?;Johannes Gutenberg,Benjamin Franklin,Thomas Edison,Leonardo da Vinci;Johannes Gutenberg
+Advanced;Who invented the first practical internal combustion engine?;Nikolaus Otto,Karl Benz,Rudolf Diesel,Henry Ford;Nikolaus Otto
+Advanced;What did Elias Howe invent?;The sewing machine,The telephone,The telegraph,The light bulb;The sewing machine
+Intermediate;What is the world's largest ocean?;Pacific Ocean,Atlantic Ocean,Indian Ocean,Southern Ocean;Pacific Ocean
+Intermediate;Which of these is the longest river in the world?;Amazon River,Nile River,Mississippi River,Yangtze River;Nile River
+Intermediate;What is the name of the largest hot desert in the world?;Gobi Desert,Sahara Desert,Kalahari Desert,Mojave Desert;Sahara Desert
+Intermediate;Mount Everest, the world's highest mountain, is part of which mountain range?;The Alps,The Andes,The Himalayas,The Rockies;The Himalayas
+Intermediate;What is a large body of ice that moves slowly down a valley called?;Glacier,Iceberg,Fjord,Ice Cap;Glacier
+Intermediate;What is the name of a deep gorge with steep sides, often carved by a river?;Plateau,Mesa,Canyon,Delta;Canyon
+Intermediate;Which of these is a large, flat, elevated area of land?;Valley,Plain,Plateau,Basin;Plateau
+Intermediate;The Grand Canyon was carved out by which river?;Mississippi River,Colorado River,Amazon River,Nile River;Colorado River
+Intermediate;What is the name of a landform at the mouth of a river created by sediment deposits?;Estuary,Fjord,Delta,Strait;Delta
+Intermediate;Which of these is a large body of salt water that is partly enclosed by land?;Lake,Ocean,Sea,Gulf;Sea
+Intermediate;What is a narrow body of water connecting two larger bodies of water?;Strait,Channel,Inlet,Canal;Strait
+Intermediate;Which of these countries is an archipelago, meaning it is made up of many islands?;Japan,Brazil,India,Russia;Japan
+Intermediate;What is the name for a ring-shaped coral reef that surrounds a lagoon?;Atoll,Fjord,Isthmus,Peninsula;Atoll
+Intermediate;Which of these is a famous waterfall located on the border between the US and Canada?;Angel Falls,Victoria Falls,Niagara Falls,Iguazu Falls;Niagara Falls
+Intermediate;What is the term for a triangular area of land formed by deposits at the mouth of a river?;Delta,Peninsula,Archipelago,Basin;Delta
+Intermediate;What is the name of a large, slow-moving mass of ice?;Iceberg,Glacier,Ice Sheet,Fjord;Glacier
+Intermediate;The Amazon Rainforest is primarily located in which continent?;Africa,Asia,South America,North America;South America
+Intermediate;What is a piece of land that is almost entirely surrounded by water but connected to the mainland?;Island,Peninsula,Cape,Strait;Peninsula
+Intermediate;Which of these is a large, natural stream of water that flows into another body of water?;Lake,Ocean,River,Sea;River
+Intermediate;What is the name for a flat, low-lying area of land next to a coast?;Plateau,Coastal Plain,Mountain Range,Basin;Coastal Plain
+Intermediate;What is a large, man-made lake used to store water?;Reservoir,Pond,Delta,Estuary;Reservoir
+Intermediate;Which of these is a mountain that opens downward to a pool of molten rock below the Earth's surface?;Cliff,Valley,Volcano,Plateau;Volcano
+Intermediate;What is a body of water completely surrounded by land?;Ocean,Sea,Lake,Gulf;Lake
+Intermediate;The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?;Brazil,India,Thailand,Australia;Australia
+Intermediate;What is a narrow, deep inlet of the sea between high cliffs, often formed by glaciers?;Fjord,Strait,Channel,Bay;Fjord
+Intermediate;Which of these is a vast, treeless Arctic region where the subsoil is permanently frozen?;Desert,Tundra,Savanna,Rainforest;Tundra
+Intermediate;What is the name for a chain of islands?;Peninsula,Archipelago,Continent,Strait;Archipelago
+Intermediate;A wide, flat area of land with few trees is called a what?;Plain,Plateau,Mountain,Valley;Plain
+Intermediate;What is the term for the point where a river begins?;Mouth,Source,Delta,Tributary;Source
+Intermediate;Which of these is a smaller river or stream that flows into a larger river?;Delta,Source,Estuary,Tributary;Tributary
+Intermediate;What is a low area of land between hills or mountains, typically with a river running through it?;Plateau,Valley,Plain,Mesa;Valley
+difficulty;question;options;answer
+Intermediate;Which music genre is known for its roots in African-American communities, soulful singing, and often features call-and-response?;Blues,Jazz,Country,Hip-Hop;Blues
+Intermediate;Who is often called the "King of Pop"?;Elvis Presley,Michael Jackson,Prince,Justin Bieber;Michael Jackson
+Intermediate;Which genre of music originated in Jamaica and is known for its offbeat rhythms and social messages?;Salsa,Reggae,Flamenco,Polka;Reggae
+Intermediate;The Beatles, one of the most famous bands ever, were from which country?;United States,Canada,England,Australia;England
+Intermediate;What is the name of the popular music genre that originated in the Bronx, New York City, in the 1970s?;Disco,Hip-Hop,Rock and Roll,Heavy Metal;Hip-Hop
+Intermediate;Which artist is famous for her powerful voice and hits like "Rolling in the Deep" and "Hello"?;Adele,Taylor Swift,Beyoncé,Lady Gaga;Adele
+Intermediate;Which musical genre is characterized by distorted electric guitars, a strong rhythm section, and loud, aggressive sound?;Classical,Heavy Metal,Pop,Electronic;Heavy Metal
+Intermediate;What is the name of Taylor Swift's primary music genre?;Country,Pop,Rock,Hip-Hop;Pop
+Intermediate;Which family singing group was known for their Motown hits like "ABC" and "I'll Be There"?;The Jackson 5,The Temptations,The Supremes,The Beatles;The Jackson 5
+Intermediate;Which genre, born in the 1950s, often features a strong backbeat and electric guitars?;Jazz,Classical,Rock and Roll,Opera;Rock and Roll
+Intermediate;What is the name of the South Korean boy band that became a massive global phenomenon with songs like "Dynamite"?;BTS,Blackpink,EXO,Stray Kids;BTS
+Intermediate;Which artist is known as the "Queen of Soul"?;Aretha Franklin,Whitney Houston,Diana Ross,Tina Turner;Aretha Franklin
+Intermediate;Electronic Dance Music is most commonly known by what acronym?;EDM,ELM,ECM,EDP;EDM
+Intermediate;Which genre often tells stories about rural American life and uses instruments like the fiddle and banjo?;Country,Techno,R&B,Punk;Country
+Intermediate;Who is the lead singer of the rock band Queen, known for his incredible vocal range and showmanship?;Freddie Mercury,John Lennon,Mick Jagger,David Bowie;Freddie Mercury
+Intermediate;What is the name of the music style that combines elements of rhythm and blues, gospel, and soul?;Funk,Bluegrass,Swing,Reggaeton;Funk
+Intermediate;Which pop star is known for her alter ego "Sasha Fierce" and hits like "Single Ladies (Put a Ring on It)"?;Beyoncé,Rihanna,Nicki Minaj,Ciara;Beyoncé
+Intermediate;In which decade did disco music become extremely popular?;1960s,1970s,1980s,1990s;1970s
+Intermediate;What is the name of the music genre that originated in Puerto Rico and blends Jamaican rhythms with Latin influences?;Salsa,Mariachi,Reggaeton,Tango;Reggaeton
+Intermediate;Which classical composer, who began to lose his hearing, wrote famous works like his 5th and 9th Symphonies?;Mozart,Beethoven,Bach,Chopin;Beethoven
+Intermediate;The musical style known as "K-Pop" originates from which country?;Japan,China,South Korea,Thailand;South Korea
+Intermediate;Which artist is known for the hit album "1989" and switching from country to pop music?;Taylor Swift,Katy Perry,Carrie Underwood,Miley Cyrus;Taylor Swift
+Intermediate;What genre of music is Louis Armstrong, famous for "What a Wonderful World," most associated with?;Jazz,Blues,Classical,Rock;Jazz
+Intermediate;Which of these is a key instrument in most Bluegrass music?;Electric Guitar,Synthesizer,Banjo,Drum Machine;Banjo
+Intermediate;Who is known as the "King of Rock and Roll"?;Chuck Berry,Elvis Presley,Buddy Holly,Little Richard;Elvis Presley
+Intermediate;What is the name of the music that is created for and used in films?;Theme Music,Soundtrack,Score,Opera;Soundtrack
+Intermediate;Which hip-hop artist is also known as "Slim Shady"?;Jay-Z,Eminem,Kanye West,Snoop Dogg;Eminem
+Intermediate;The genre "Rhythm and Blues" is most commonly known as what?;R&B,ROCK,JAZZ,SOUL;R&B
+Intermediate;ABBA, a hugely popular pop group, was from which European country?;Germany,Sweden,France,Italy;Sweden
+Intermediate;What is the name of a music style that developed from punk rock and is typically faster and harder?;New Wave,Heavy Metal,Hardcore,Disco;Hardcore
+Intermediate;Which artist is known for her colorful wigs and theatrical performances, with hits like "Bad Romance"?;Lady Gaga,Katy Perry,Madonna,Pink;Lady Gaga
+Intermediate;Which musical genre is Lin-Manuel Miranda's "Hamilton" classified as?;Rock Opera,Hip-Hop Musical,Jazz Ballet,Pop Concert;Hip-Hop Musical
+Intermediate;What is the primary language of most Reggaeton songs?;English,Portuguese,French,Spanish;Spanish
+Intermediate;Which band, featuring Bono as the lead singer, is known for songs like "With or Without You"?;U2,Coldplay,The Rolling Stones,Radiohead;U2
+Intermediate;What genre of music are artists like Daft Punk and Deadmau5 known for?;Country,Electronic,Blues,Folk;Electronic
+Intermediate;Which of these is a famous music festival held in the desert of California?;Lollapalooza,Coachella,Glastonbury,Bonnaroo;Coachella
+Intermediate;Which musical instrument is a grand example of a percussion instrument?;Flute,Violin,Piano,Trumpet;Piano
+Intermediate;What is the name of a large orchestra that plays classical music?;Band,Quartet,Choir,Symphony Orchestra;Symphony Orchestra
+Intermediate;Which artist broke records with her 2019 album "Thank U, Next"?;Billie Eilish,Ariana Grande,Selena Gomez,Halsey;Ariana Grande
+Intermediate;The music of India, known for its use of the sitar and tabla, is often called what?;Bollywood,Classical Indian,Desi Beat,Asian Folk;Classical Indian
+Intermediate;Which genre is Billie Eilish's music most commonly associated with?;Pop,Alternative Pop,Heavy Metal,Country;Alternative Pop
+Intermediate;What is the name for the words of a song?;Melody,Beat,Lyrics,Harmony;Lyrics
+Intermediate;Which Motown record label artist was known as the "King of Motown"?;Marvin Gaye,Stevie Wonder,Smokey Robinson,Michael Jackson;Marvin Gaye
+Intermediate;Which of these is a subgenre of rock music that emerged in the 1990s, known for its distorted guitars and angst-filled lyrics?;Disco,Grunge,New Wave,Funk;Grunge
+Intermediate;What is the name of a style of music that is passed down through generations and tells stories?;Folk Music,Electronic Music,Pop Music,Opera;Folk Music
+Intermediate;Which famous jazz singer was known as "Lady Day"?;Billie Holiday,Ella Fitzgerald,Nina Simone,Sarah Vaughan;Billie Holiday
+Intermediate;In music, what is the term for the speed of a piece?;Pitch,Volume,Tempo,Rhythm;Tempo
+Intermediate;Which pop star started her career on the Disney Channel show "Hannah Montana"?;Selena Gomez,Miley Cyrus,Demi Lovato,Dove Cameron;Miley Cyrus
+Intermediate;What is the name of a recorded piece of music released by a single artist?;Album,LP,Single,EP;Single
+Intermediate;Which musical genre is characterized by its use of synthesizers, drum machines, and futuristic sounds, emerging in the 1980s?;Synth-Pop,Punk Rock,Classical,Grunge;Synth-Pop
